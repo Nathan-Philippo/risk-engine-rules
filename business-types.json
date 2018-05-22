@@ -2,9 +2,9 @@
   "Farm-Fruit and vegetable grower": {
     "answerIds": ["TYPE-A0"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
