@@ -1,24 +1,31 @@
 {
   "Farm-Fruit and vegetable grower": {
-    "answerIds": ["TYPE-A0"],
+    "answerIds": [
+      "TYPE-A0"
+    ],
     "baseScores": {
-      "Type of food and method of handling": 30,
+      "Type of food and method of handling": 0,
       "Method of processing": 0,
-      "Consumers at risk": 5,
+      "Consumers at risk": 0,
       "Vulnerable group": 0
     }
   },
   "Farm-Livestock": {
-    "answerIds": ["TYPE-A0", "TYPE-A5"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A5"
+    ],
     "baseScores": {
-      "Type of food and method of handling": 30,
+      "Type of food and method of handling": 0,
       "Method of processing": 0,
-      "Consumers at risk": 5,
+      "Consumers at risk": 0,
       "Vulnerable group": 0
     }
   },
   "Farm-Arable": {
-    "answerIds": ["TYPE-A0"],
+    "answerIds": [
+      "TYPE-A0"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -36,7 +43,10 @@
     }
   },
   "Beekeeper": {
-    "answerIds": ["TYPE-A0", "TYPE-A3"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A3"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -61,7 +71,11 @@
     }
   },
   "Hunting and trapping": {
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12",
+      "TYPE-A3"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -70,7 +84,11 @@
     }
   },
   "Egg producer-Egg packer": {
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -88,7 +106,13 @@
     }
   },
   "Fishing vessel-Finfish": {
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A13", "TYPE-A3", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12",
+      "TYPE-A13",
+      "TYPE-A3",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -114,7 +138,13 @@
     }
   },
   "Fishing vessel-Other": {
-    "answerIds": ["TYPE-A0", "TYPE-A11", "TYPE-A12", "TYPE-A13", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A11",
+      "TYPE-A12",
+      "TYPE-A13",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -123,7 +153,10 @@
     }
   },
   "Farmed fishing-Finfish": {
-    "answerIds": ["TYPE-A0", "TYPE-A12"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -132,7 +165,9 @@
     }
   },
   "Farmed fishing-Shellfish": {
-    "answerIds": ["TYPE-A0"],
+    "answerIds": [
+      "TYPE-A0"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -150,7 +185,12 @@
     }
   },
   "Processing andpreserving of meat": {
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12",
+      "TYPE-A3",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -159,7 +199,10 @@
     }
   },
   "Abattoirs": {
-    "answerIds": ["TYPE-A0", "TYPE-A12"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -221,7 +264,11 @@
     }
   },
   "Other processing and preserving of fruit and vegetables": {
-    "answerIds": ["TYPE-A0", "TYPE-A3", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A3",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -230,7 +277,10 @@
     }
   },
   "Manufacture of oils and fats": {
-    "answerIds": ["TYPE-A6", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A6",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -274,7 +324,10 @@
     }
   },
   "Bakeries with no on-site retail": {
-    "answerIds": ["TYPE-A0", "TYPE-A3"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A3"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -301,7 +354,12 @@
     }
   },
   "Manufacture of prepared meals and dishes": {
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A12",
+      "TYPE-A3",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -310,7 +368,12 @@
     }
   },
   "Manufacture of homogenised food preparations and dietetic food": {
-    "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A12",
+      "TYPE-A3",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -328,7 +391,10 @@
     }
   },
   "Manufacture-Alcoholic drinks": {
-    "answerIds": ["TYPE-A0", "TYPE-A3"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A3"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -346,7 +412,10 @@
     }
   },
   "Packer-Mineral waters": {
-    "answerIds": ["TYPE-A0", "TYPE-A2"],
+    "answerIds": [
+      "TYPE-A0",
+      "TYPE-A2"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -400,7 +469,9 @@
     }
   },
   "Food broker": {
-    "answerIds": ["TYPE-A0"],
+    "answerIds": [
+      "TYPE-A0"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -434,7 +505,9 @@
     }
   },
   "Haulage company": {
-    "answerIds": ["TYPE-A0"],
+    "answerIds": [
+      "TYPE-A0"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -572,7 +645,10 @@
     }
   },
   "Confectionery/sweet shop": {
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -597,7 +673,11 @@
     }
   },
   "Fishmonger": {
-    "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A12",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -606,7 +686,10 @@
     }
   },
   "Greengrocer/fruiterer": {
-    "answerIds": ["TYPE-A1", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -615,7 +698,11 @@
     }
   },
   "Health food shop": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -624,7 +711,13 @@
     }
   },
   "Bakers shop (retail only)": {
-    "answerIds": ["TYPE-A1", "TYPE-A3", "TYPE-A4", "TYPE-A5", "TYPE-A6"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -633,7 +726,11 @@
     }
   },
   "Newsagent, post office": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -642,7 +739,10 @@
     }
   },
   "Market stalls (retail only)": {
-    "answerIds": ["TYPE-A1", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -651,7 +751,10 @@
     }
   },
   "Off licence": {
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -660,7 +763,11 @@
     }
   },
   "Petrol/Garage - mini supermarket": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -685,7 +792,10 @@
     }
   },
   "Chemist": {
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -694,7 +804,10 @@
     }
   },
   "Retailers - shelf stable only": {
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -703,7 +816,10 @@
     }
   },
   "Vending machine": {
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -712,7 +828,10 @@
     }
   },
   "Retailer - others": {
-    "answerIds": ["TYPE-A1", "TYPE-A9"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A9"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -756,7 +875,12 @@
     }
   },
   "Hotels - Snacks": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -816,7 +940,12 @@
     }
   },
   "Pubs - snacks and drinks only": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -893,7 +1022,12 @@
     }
   },
   "Child minder-Snack and drink only": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -919,7 +1053,12 @@
     }
   },
   "Childcare, Nursery; pre/after school care; play group etc-Snack and drink only": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -945,7 +1084,12 @@
     }
   },
   "School snacks and drinks only": {
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -954,7 +1098,13 @@
     }
   },
   "Mobile retailer": {
-    "answerIds": ["TYPE-A1", "TYPE-A4", "TYPE-A8", "TYPE-A9", "TYPE-A12"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A4",
+      "TYPE-A8",
+      "TYPE-A9",
+      "TYPE-A12"
+    ],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
