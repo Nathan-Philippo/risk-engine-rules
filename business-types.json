@@ -186,9 +186,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 40,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -249,9 +249,9 @@
       "TYPE-A5"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 40,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -276,9 +276,9 @@
   "Bakeries with no on-site retail": {
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 40,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
@@ -294,9 +294,9 @@
       "TYPE-A6"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -348,54 +348,54 @@
   "Packer-Mineral waters": {
     "answerIds": ["TYPE-A0", "TYPE-A2"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Packer-Contract packers": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 40,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Food delivery service-Deliver food to consumers": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Food delivery service-Process food order only for consumers, e.g. Just Eat": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Food delivery service-Other": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Storage provider": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
@@ -411,9 +411,9 @@
   "Wholesaler": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
@@ -427,18 +427,18 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
   "Haulage company": {
     "answerIds": ["TYPE-A0"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -452,9 +452,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -489,7 +489,7 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
@@ -508,9 +508,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -524,9 +524,9 @@
       "TYPE-A7"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -540,9 +540,9 @@
       "TYPE-A7"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -556,9 +556,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -574,9 +574,9 @@
   "Confectionery/sweet shop": {
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -590,27 +590,27 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Fishmonger": {
     "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Greengrocer/fruiterer": {
     "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -626,36 +626,36 @@
   "Bakers shop (retail only)": {
     "answerIds": ["TYPE-A1", "TYPE-A3", "TYPE-A4", "TYPE-A5", "TYPE-A6"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Newsagent, post office": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Market stalls (retail only)": {
     "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Off licence": {
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -678,9 +678,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -696,18 +696,18 @@
   "Retailers - shelf stable only": {
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Vending machine": {
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -758,9 +758,9 @@
   "Hotels - Snacks": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -775,9 +775,9 @@
       "TYPE-A7"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -792,9 +792,9 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -834,9 +834,9 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -851,10 +851,10 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "Consumers at risk": 5,
+      "Vulnerable group": 22
     }
   },
   "Hospitals": {
@@ -868,10 +868,10 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "Consumers at risk": 10,
+      "Vulnerable group": 22
     }
   },
   "Child minder-Meals": {
@@ -938,27 +938,27 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "School snacks and drinks only": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Mobile retailer": {
     "answerIds": ["TYPE-A1", "TYPE-A4", "TYPE-A8", "TYPE-A9", "TYPE-A12"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -973,9 +973,9 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -1008,18 +1008,18 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Contract caterer": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   }
