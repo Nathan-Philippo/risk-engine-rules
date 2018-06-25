@@ -56,7 +56,7 @@
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 5,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -73,7 +73,7 @@
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 10,
-      "Method of processing": 0,
+      "Method of procehssing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
     }
@@ -152,9 +152,9 @@
   "Processing andpreserving of meat": {
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Type of food and method of handling": 40,
+      "Method of processing": 20,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -170,9 +170,9 @@
   "Processing and preserving of fish, crustaceans and molluscs": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Type of food and method of handling": 40,
+      "Method of processing": 20,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -195,9 +195,9 @@
   "Processing and preserving of potatoes": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -214,27 +214,27 @@
       "TYPE-A7"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Other processing and preserving of fruit and vegetables": {
     "answerIds": ["TYPE-A0", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Manufacture of oils and fats": {
     "answerIds": ["TYPE-A6", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -250,7 +250,7 @@
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
-      "Method of processing": 0,
+      "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
     }
@@ -267,16 +267,16 @@
       "TYPE-A6"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Type of food and method of handling": 40,
+      "Method of processing": 20,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Bakeries with no on-site retail": {
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
-      "Type of food and method of handling": 40,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
@@ -303,45 +303,45 @@
   "Manufacture of prepared meals and dishes": {
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Type of food and method of handling": 40,
+      "Method of processing": 20,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Manufacture of homogenised food preparations and dietetic food": {
     "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Type of food and method of handling": 40,
+      "Method of processing": 20,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Manufacture of other food products n.e.c.": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Type of food and method of handling": 40,
+      "Method of processing": 20,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Manufacture-Alcoholic drinks": {
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
   "Manufacture-Soft drinks, mineral waters and other bottled waters": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -402,9 +402,9 @@
   "Food broker": {
     "answerIds": ["TYPE-A0"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -470,9 +470,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -599,7 +599,7 @@
   "Fishmonger": {
     "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
@@ -617,9 +617,9 @@
   "Health food shop": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -662,9 +662,9 @@
   "Petrol/Garage - mini supermarket": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
@@ -687,9 +687,9 @@
   "Chemist": {
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -731,9 +731,9 @@
       "TYPE-A6"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
@@ -792,7 +792,7 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
@@ -809,18 +809,18 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
   "Pubs - snacks and drinks only": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -886,7 +886,7 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
@@ -895,7 +895,7 @@
   "Child minder-Snack and drink only": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
@@ -912,19 +912,19 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
+      "Type of food and method of handling": 30,
+      "Method of processing": 5,
       "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "Vulnerable group": 22
     }
   },
   "Childcare, Nursery; pre/after school care; play group etc-Snack and drink only": {
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "Consumers at risk": 5,
+      "Vulnerable group": 22
     }
   },
   "School -Meals": {
