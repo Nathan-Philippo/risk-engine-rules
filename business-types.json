@@ -73,7 +73,7 @@
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 10,
-      "Method of procehssing": 0,
+      "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
     }
@@ -187,7 +187,7 @@
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
-      "Method of processing": 0,
+      "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
     }
@@ -375,7 +375,7 @@
   "Food delivery service-Process food order only for consumers, e.g. Just Eat": {
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
@@ -402,7 +402,7 @@
   "Food broker": {
     "answerIds": ["TYPE-A0"],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
@@ -733,7 +733,7 @@
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 10,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -913,8 +913,8 @@
     ],
     "baseScores": {
       "Type of food and method of handling": 30,
-      "Method of processing": 5,
-      "Consumers at risk": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 22
     }
   },
