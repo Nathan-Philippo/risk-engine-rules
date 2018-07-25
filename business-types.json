@@ -1,5 +1,5 @@
 {
-  "Fruit and vegetable farm": {
+  "Farm-Fruit and vegetable grower": {
     "displayName": "Fruit and vegetable farm",
     "searchTerms": ["fruit", "vegetable", "grower", "agriculture", "farm"],
     "answerIds": ["TYPE-A0"],
@@ -10,7 +10,7 @@
       "Vulnerable group": 0
     }
   },
-  "Livestock farm": {
+  "Farm-Livestock": {
     "displayName": "Livestock farm",
     "searchTerms": [
       "farm",
@@ -32,7 +32,7 @@
       "Vulnerable group": 0
     }
   },
-  "Arable farm": {
+  "Farm-Arable": {
     "displayName": "Arable farm",
     "searchTerms": ["farm", "crop", "agriculture"],
     "answerIds": ["TYPE-A0"],
@@ -102,7 +102,7 @@
       "Vulnerable group": 0
     }
   },
-  "Egg producer or packer": {
+  "Egg producer": {
     "displayName": "Egg producer or packer",
     "searchTerms": ["egg", "producer", "duck", "quail", "chicken", "packer"],
     "answerIds": [],
@@ -113,7 +113,7 @@
       "Vulnerable group": 0
     }
   },
-  "Fishing vessel-Finfish": {
+  "Fishing vessel": {
     "displayName": "Fishing boat",
     "searchTerms": [
       "fishing",
@@ -144,7 +144,7 @@
       "Vulnerable group": 0
     }
   },
-  "Farmed fishing-Finfish": {
+  "Farmed fishing": {
     "displayName": "Fish farm",
     "searchTerms": [
       "fishing",
@@ -177,7 +177,7 @@
       "Vulnerable group": 0
     }
   },
-  "Meat product manufacturer": {
+  "Processing and preserving of meat": {
     "displayName": "Meat product manufacturer",
     "searchTerms": [
       "processing",
@@ -208,8 +208,8 @@
       "Vulnerable group": 0
     }
   },
-  "Abattoir": {
-    "displayName": " Abattoir",
+  "Abattoirs": {
+    "displayName": "Abattoir",
     "searchTerms": [
       "abattoir",
       "slaughterhouse",
@@ -227,7 +227,7 @@
       "Vulnerable group": 0
     }
   },
-  "Fish and shellfish product manufacturer": {
+  "Processing and preserving of fish, crustaceans and molluscs": {
     "displayName": "Fish and shellfish product manufacturer",
     "searchTerms": [
       "processing",
@@ -258,7 +258,7 @@
       "Vulnerable group": 0
     }
   },
-  "Shellfish purification centre": {
+  "Purification centres for shellfish": {
     "displayName": "Shellfish purification centre",
     "searchTerms": [
       "purification",
@@ -289,7 +289,7 @@
       "Vulnerable group": 0
     }
   },
-  "Potato product manufacturer": {
+  "Processing and preserving of potatoes": {
     "displayName": "Potato product manufacturer",
     "searchTerms": [
       "processing",
@@ -310,7 +310,7 @@
       "Vulnerable group": 0
     }
   },
-  "Fruit and vegetable juice manufacturer": {
+  "Manufacture of fruit and vegetable juice": {
     "displayName": "Fruit and vegetable juice manufacturer",
     "searchTerms": [
       "fruit",
@@ -342,7 +342,7 @@
       "Vulnerable group": 0
     }
   },
-  "Fruit and vegetable product manufacturer": {
+  "Other processing and preserving of fruit and vegetables": {
     "displayName": "Fruit and vegetable product manufacturer",
     "searchTerms": [
       "fruit",
@@ -368,7 +368,7 @@
       "Vulnerable group": 0
     }
   },
-  "Oil and/or fat manufacturer": {
+  "Manufacture of oils and fats": {
     "displayName": "Oil and/or fat manufacturer",
     "searchTerms": [
       "oil",
@@ -392,7 +392,7 @@
       "Vulnerable group": 0
     }
   },
-  "Dairies and cheese manufacturer": {
+  "Operation of dairies and cheese making": {
     "displayName": "Dairies and cheese manufacturer",
     "searchTerms": [
       "dairy",
@@ -423,7 +423,7 @@
       "Vulnerable group": 0
     }
   },
-  "Ice cream manufacturer": {
+  "Manufacture of ice cream": {
     "displayName": "Ice cream manufacturer",
     "searchTerms": [
       "ice",
@@ -473,7 +473,7 @@
       "Vulnerable group": 0
     }
   },
-  "Ready to eat meals or food manufacturer": {
+  "Manufacture of prepared meals and dishes": {
     "displayName": "Ready to eat meals or food manufacturerr",
     "searchTerms": [
       "ready made",
@@ -494,7 +494,7 @@
       "Vulnerable group": 0
     }
   },
-  "Homogenised food preparations and dietetic food manufacturer": {
+  "Manufacture of homogenised food preparations and dietetic food": {
     "displayName": "TBC - Nathan will decide",
     "searchTerms": [
       "homogenised",
@@ -514,7 +514,7 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacturer of other food products": {
+  "Manufacture of other food products n.e.c.": {
     "displayName": "Manufacturer of other food products",
     "searchTerms": [
       "ice",
@@ -534,7 +534,7 @@
       "Vulnerable group": 0
     }
   },
-  "Alcoholic drinks manufacturer": {
+  "Manufacture-Alcoholic drinks": {
     "displayName": "Alcoholic drinks manufacturer",
     "searchTerms": [
       "brewing",
@@ -573,7 +573,7 @@
       "Vulnerable group": 0
     }
   },
-  "Non alcoholic drinks manufacturer": {
+  "Manufacture-Soft drinks, mineral waters and other bottled waters": {
     "displayName": "Non alcoholic drinks manufacturer",
     "searchTerms": [
       "soft",
@@ -599,7 +599,7 @@
       "Vulnerable group": 0
     }
   },
-  "Mineral water packer": {
+  "Packer-Mineral waters": {
     "displayName": "Mineral water packer",
     "searchTerms": [
       "packer",
@@ -619,7 +619,7 @@
       "Vulnerable group": 0
     }
   },
-  "Contract packers": {
+  "Packer-Contract packers": {
     "displayName": "Contract packer",
     "searchTerms": [
       "packer",
@@ -643,7 +643,7 @@
       "Vulnerable group": 0
     }
   },
-  "Food delivery service": {
+  "Food delivery service-Deliver food to consumers": {
     "displayName": "Food delivery service",
     "searchTerms": ["delivery", "service", "meals on wheels", "order"],
     "answerIds": [],
@@ -654,7 +654,7 @@
       "Vulnerable group": 0
     }
   },
-  "Food ordering service": {
+  "Food delivery service-Process food order only for consumers, e.g. Just Eat": {
     "displayName": "Food ordering service",
     "searchTerms": [
       "delivery",
@@ -672,7 +672,7 @@
       "Vulnerable group": 0
     }
   },
-  "Food storage facility": {
+  "Storage provider": {
     "displayName": "Food storage facility",
     "searchTerms": [
       "storage",
@@ -775,7 +775,7 @@
       "Vulnerable group": 0
     }
   },
-  "Online retailer": {
+  "Internet only food": {
     "displayName": "Online retailer",
     "searchTerms": [
       "online",
@@ -795,6 +795,84 @@
       "TYPE-A12",
       "TYPE-A3",
       "TYPE-A4",
+      "TYPE-A9"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Supermarket": {
+    "displayName": "Supermarket",
+    "searchTerms": [
+      "supermarket",
+      "hypermarket",
+      "grocery",
+      "market",
+      "store",
+      "convenience",
+      "shop"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A11",
+      "TYPE-A12",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A9"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Convenience store/mini-market/corner shop": {
+    "displayName": "Local convenience store or corner shop",
+    "searchTerms": [
+      "supermarket",
+      "convenience",
+      "local",
+      "corner",
+      "store",
+      "grocery",
+      "shop",
+      "license"
+    ],
+    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Farm-Gate sales": {
+    "displayName": "Farm gate sales",
+    "searchTerms": [
+      "farm",
+      "gate",
+      "sales",
+      "eggs",
+      "potatoes",
+      "farmshop",
+      "gatesale",
+      "retail"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A11",
+      "TYPE-A12",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7",
       "TYPE-A9"
     ],
     "baseScores": {
@@ -825,37 +903,7 @@
       "Vulnerable group": 0
     }
   },
-  "Farm gate sales": {
-    "displayName": "Farm gate sales",
-    "searchTerms": [
-      "farm",
-      "gate",
-      "sales",
-      "eggs",
-      "potatoes",
-      "farmshop",
-      "gatesale",
-      "retail"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A9"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Sweet shop or Confectioner": {
+  "Confectionery/sweet shop": {
     "displayName": "Sweet shop or Confectioner",
     "searchTerms": [
       "confectioner",
@@ -877,7 +925,7 @@
       "Vulnerable group": 0
     }
   },
-  "Butcher": {
+  "Butcher (retail only)": {
     "displayName": "Butcher",
     "searchTerms": [
       "butcher",
@@ -903,17 +951,6 @@
       "Vulnerable group": 0
     }
   },
-  "Meat cutting plant or commercial butcher": {
-    "displayName": "Meat cutting plant or commercial butcher",
-    "searchTerms": [
-      "butcher",
-      "meat",
-      "halal",
-      "commercial",
-      "cutting",
-      "butchery"
-    ]
-  },
   "Fishmonger": {
     "displayName": "Fishmonger",
     "searchTerms": [
@@ -933,7 +970,7 @@
       "Vulnerable group": 0
     }
   },
-  "Greengrocer": {
+  "Greengrocer/fruiterer": {
     "displayName": "Greengrocer",
     "searchTerms": [
       "greengrocer",
@@ -977,7 +1014,7 @@
       "Vulnerable group": 0
     }
   },
-  "Bakery": {
+  "Bakers shop (retail only)": {
     "displayName": "Bakery",
     "searchTerms": [
       "bakery",
@@ -999,55 +1036,7 @@
       "Vulnerable group": 0
     }
   },
-  "Supermarket": {
-    "displayName": "Supermarket",
-    "searchTerms": [
-      "supermarket",
-      "hypermarket",
-      "grocery",
-      "market",
-      "store",
-      "convenience",
-      "shop"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A9"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Local convenience store or corner shop": {
-    "displayName": "Local convenience store or corner shop",
-    "searchTerms": [
-      "supermarket",
-      "convenience",
-      "local",
-      "corner",
-      "store",
-      "grocery",
-      "shop",
-      "license"
-    ],
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Newsagent or Post Office": {
+  "Newsagent, post office": {
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
       "supermarket",
@@ -1063,6 +1052,17 @@
       "corner"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Market stalls": {
+    "displayName": "Market stalls with permanent pitch",
+    "searchTerms": ["stall", "pop up", "popup", "market", "bazar"],
+    "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -1090,8 +1090,8 @@
       "Vulnerable group": 0
     }
   },
-  "Petrolstation or garage": {
-    "displayName": "Petrolstation or garage",
+  "Petrol station/Garage": {
+    "displayName": "Petrol station or garage",
     "searchTerms": [
       "supermarket",
       "petrol",
@@ -1153,7 +1153,7 @@
       "Vulnerable group": 0
     }
   },
-  "Any other retailer": {
+  "Retailers": {
     "displayName": "Any other retailer",
     "searchTerms": [
       "supermarket",
@@ -1225,37 +1225,84 @@
       "Vulnerable group": 0
     }
   },
-  "Hotel": {
-    "displayName": "Hotel",
+  "Restaurant/Cafe/Canteen/Fast food restaurant": {
+    "displayName": "Restaurant, cafe, canteen, or fast food restaurant",
     "searchTerms": [
-      "hotel",
-      "guesthouse",
-      "inn",
-      "motel",
-      "resort",
-      "accomodation",
-      "retreat",
+      "restaurant",
+      "bistro",
+      "brunch",
+      "afternoon tea",
+      "breakfast",
+      "supper",
+      "dinner",
+      "diner",
+      "Buffet",
+      "cafe",
+      "canteen",
+      "fast food",
+      "coffee",
+      "dessert",
+      "espresso",
+      "fusion",
+      "greasy",
+      "hamburger",
+      "burger",
+      "kebab",
+      "lunch",
+      "pizzeria",
+      "playground",
+      "sandwich",
+      "softplay",
+      "sushi",
+      "tea",
+      "juice bar",
+      "museum",
+      "zoo",
+      "aquarium",
+      "brasserie",
+      "carvery",
+      "churreria",
+      "creperie",
+      "fish and chip",
+      "grill",
+      "cafeteria",
+      "shelter",
+      "halfway",
+      "prison",
+      "detention",
       "spa",
-      "airbnb"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
+      "charity",
+      "library",
+      "gym",
+      "fast food",
+      "offcie",
+      "church",
+      "mosque",
+      "synagogue",
+      "village hall",
+      "temple",
+      "community",
+      "gastropub",
+      "theatre",
+      "cinema",
+      "stadium",
+      "cirkus",
+      "concert",
+      "music",
+      "bingo",
+      "lounge",
+      "racecoruse",
+      "racetrack",
+      "bowling",
+      "park",
+      "amusement",
+      "fairground",
+      "casino",
+      "attraction"
+    ]
   },
-  "Hostel or bed and breakfast": {
-    "displayName": "Hostel or bed and breakfast ",
+  "Hostel or B&B": {
+    "displayName": "Hostel or bed & breakfast ",
     "searchTerms": [
       "hostel",
       "bed",
@@ -1286,7 +1333,36 @@
       "Vulnerable group": 0
     }
   },
-  "Pub serving meals": {
+  "Hotels": {
+    "displayName": "Hotel",
+    "searchTerms": [
+      "hotel",
+      "guesthouse",
+      "inn",
+      "motel",
+      "resort",
+      "accomodation",
+      "retreat",
+      "spa",
+      "airbnb"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A12",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Pubs - Meals": {
     "displayName": "Pub serving meals",
     "searchTerms": [
       "pub",
@@ -1335,7 +1411,7 @@
       "Vulnerable group": 0
     }
   },
-  "Pubs serving only snacks and drinks": {
+  "Pubs - snacks and drinks only": {
     "displayName": "Pub serving only snacks and drinks",
     "searchTerms": [
       "pub",
@@ -1376,302 +1452,7 @@
       "Vulnerable group": 0
     }
   },
-  "Nursing home, care home or day centre": {
-    "displayName": "Nursing home, care home or day centre",
-    "searchTerms": [
-      "nursing",
-      "care",
-      "home",
-      "elderly",
-      "sheltered",
-      "adult",
-      "residential",
-      "aged",
-      "retirement",
-      "day",
-      "centre"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Hospital": {
-    "displayName": "Hospital",
-    "searchTerms": [
-      "hospital",
-      "GP",
-      "emergency",
-      "medical",
-      "health",
-      "clinic",
-      "infirmary",
-      "hospice"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Childminder": {
-    "displayName": "Childminder",
-    "searchTerms": ["child", "minder", "childminder", "babysitter", "nanny"],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A10",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Childcarer, nursery or play group": {
-    "displayName": "Childcarer, nursery or play group",
-    "searchTerms": [
-      "child",
-      "childcarer",
-      "care",
-      "nursery",
-      "babysitter",
-      "nanny",
-      "daycare",
-      "playgroup",
-      "play",
-      "au pair",
-      "breakfast club"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Educational establishment": {
-    "displayName": "Educational establishment",
-    "searchTerms": [
-      "school",
-      "college",
-      "university",
-      "canteen",
-      "academy",
-      "boarding",
-      "gymnasium",
-      "preparatory",
-      "preschool",
-      "primary"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Market stalls with permanent pitch": {
-    "displayName": "Market stalls with permanent pitch",
-    "searchTerms": ["stall", "pop up", "popup", "market", "bazar"],
-    "answerIds": ["TYPE-A1", "TYPE-A9"],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Mobile retailer": {
-    "displayName": "Mobile retailer",
-    "searchTerms": [
-      "mobile",
-      "retailer",
-      "movable",
-      "market",
-      "bazar",
-      "foodtruck",
-      "food truck",
-      "pop up",
-      "popup",
-      "vehicle",
-      "stall",
-      "car",
-      "bike",
-      "ice cream van",
-      "van",
-      "festival",
-      "retail",
-      "street",
-      "vendor"
-    ],
-    "answerIds": ["TYPE-A1", "TYPE-A4", "TYPE-A8", "TYPE-A9", "TYPE-A12"],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Mobile caterer": {
-    "displayName": "Mobile caterer",
-    "searchTerms": [
-      "mobile",
-      "caterer",
-      "movable",
-      "market",
-      "bazar",
-      "foodtruck",
-      "food truck",
-      "pop up",
-      "popup",
-      "vehicle",
-      "stall",
-      "car",
-      "bike",
-      "ice cream van",
-      "van",
-      "festival",
-      "event",
-      "party",
-      "function",
-      "burger van",
-      "hot dog stand",
-      "street",
-      "vendor"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A8",
-      "TYPE-A10",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Movable food establishment": {
-    "displayName": "Movable food establishments",
-    "searchTerms": [
-      "movable",
-      "train",
-      "locomotive",
-      "cruise",
-      "boat",
-      "ship",
-      "catamaran",
-      "airplane",
-      "plane",
-      "ferry",
-      "yacht",
-      "coach",
-      "bus"
-    ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A8",
-      "TYPE-A12"
-    ],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Contract caterer": {
-    "displayName": "Contract caterer",
-    "searchTerms": [
-      "contract",
-      "caterer",
-      "wedding",
-      "event",
-      "party",
-      "occasion",
-      "function"
-    ],
-    "answerIds": [],
-    "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
-    }
-  },
-  "Home caterer": {
-    "displayName": "Home caterer",
-    "searchTerms": [
-      "home",
-      "caterer",
-      "baker",
-      "cake",
-      "cupcake",
-      "house",
-      "domestic",
-      "cookie"
-    ]
-  },
-  "Food auction hall": {
-    "displayName": "Food auction hall",
-    "searchTerms": ["auction", "hall", "auctioneer", "bidding"]
-  },
-  "Take away with no food consumed on site": {
+  "Take away-No food consumed on site": {
     "displayName": "Take away with no food consumed on site",
     "searchTerms": [
       "takeaway",
@@ -1766,318 +1547,315 @@
       "Vulnerable group": 0
     }
   },
-  "Restaurant": {
-    "displayName": "Restaurant",
+  "Nursing, care homes, day centres": {
+    "displayName": "Nursing home, care home or day centre",
     "searchTerms": [
-      "restaurant",
-      "bistro",
-      "brunch",
-      "afternoon tea",
-      "breakfast",
-      "supper",
-      "dinner",
-      "diner",
-      "Buffet",
-      "cafe",
-      "canteen",
-      "fast food",
-      "coffee",
-      "dessert",
-      "espresso",
-      "fusion",
-      "greasy",
-      "hamburger",
-      "burger",
-      "kebab",
-      "lunch",
-      "pizzeria",
-      "playground",
-      "sandwich",
-      "softplay",
-      "sushi",
-      "tea",
-      "juice bar",
-      "museum",
-      "zoo",
-      "aquarium",
-      "brasserie",
-      "carvery",
-      "churreria",
-      "creperie",
-      "fish and chip",
-      "grill",
-      "cafeteria",
-      "shelter",
-      "halfway",
-      "prison",
-      "detention",
-      "spa",
-      "charity",
-      "library",
-      "gym",
-      "fast food",
-      "offcie",
-      "church",
-      "mosque",
-      "synagogue",
-      "village hall",
-      "temple",
-      "community",
-      "gastropub",
-      "theatre",
-      "cinema",
-      "stadium",
-      "cirkus",
-      "concert",
-      "music",
-      "bingo",
-      "lounge",
-      "racecoruse",
-      "racetrack",
-      "bowling",
-      "park",
-      "amusement",
-      "fairground",
-      "casino",
-      "attraction"
-    ]
-  },
-  "Cafe": {
-    "displayName": "Cafe",
-    "searchTerms": [
-      "restaurant",
-      "bistro",
-      "brunch",
-      "afternoon tea",
-      "breakfast",
-      "supper",
-      "dinner",
-      "diner",
-      "Buffet",
-      "cafe",
-      "canteen",
-      "fast food",
-      "coffee",
-      "dessert",
-      "espresso",
-      "fusion",
-      "greasy",
-      "hamburger",
-      "burger",
-      "kebab",
-      "lunch",
-      "pizzeria",
-      "playground",
-      "sandwich",
-      "softplay",
-      "sushi",
-      "tea",
-      "juice bar",
-      "museum",
-      "zoo",
-      "aquarium",
-      "brasserie",
-      "carvery",
-      "churreria",
-      "creperie",
-      "fish and chip",
-      "grill",
-      "cafeteria",
-      "shelter",
-      "halfway",
-      "prison",
-      "detention",
-      "spa",
-      "charity",
-      "library",
-      "gym",
-      "fast food",
-      "offcie",
-      "church",
-      "mosque",
-      "synagogue",
-      "village hall",
-      "temple",
-      "community",
-      "gastropub",
-      "theatre",
-      "cinema",
-      "stadium",
-      "cirkus",
-      "concert",
-      "music",
-      "bingo",
-      "lounge",
-      "racecoruse",
-      "racetrack",
-      "bowling",
-      "park",
-      "amusement",
-      "fairground",
-      "casino",
-      "attraction"
-    ]
-  },
-  "Canteen": {
-    "displayName": "Canteen",
-    "searchTerms": [
-      "restaurant",
-      "bistro",
-      "brunch",
-      "afternoon tea",
-      "breakfast",
-      "supper",
-      "dinner",
-      "diner",
-      "Buffet",
-      "cafe",
-      "canteen",
-      "fast food",
-      "coffee",
-      "dessert",
-      "espresso",
-      "fusion",
-      "greasy",
-      "hamburger",
-      "burger",
-      "kebab",
-      "lunch",
-      "pizzeria",
-      "playground",
-      "sandwich",
-      "softplay",
-      "sushi",
-      "tea",
-      "juice bar",
-      "museum",
-      "zoo",
-      "aquarium",
-      "brasserie",
-      "carvery",
-      "churreria",
-      "creperie",
-      "fish and chip",
-      "grill",
-      "cafeteria",
-      "shelter",
-      "halfway",
-      "prison",
-      "detention",
-      "spa",
-      "charity",
-      "library",
-      "gym",
-      "fast food",
-      "offcie",
-      "church",
-      "mosque",
-      "synagogue",
-      "village hall",
-      "temple",
-      "community",
-      "gastropub",
-      "theatre",
-      "cinema",
-      "stadium",
-      "cirkus",
-      "concert",
-      "music",
-      "bingo",
-      "lounge",
-      "racecoruse",
-      "racetrack",
-      "bowling",
-      "park",
-      "amusement",
-      "fairground",
-      "casino",
-      "attraction"
-    ]
-  },
-  "Fast food restaurant": {
-    "displayName": "Fast food restaurant",
-    "searchTerms": [
-      "restaurant",
-      "bistro",
-      "brunch",
-      "afternoon tea",
-      "breakfast",
-      "supper",
-      "dinner",
-      "diner",
-      "Buffet",
-      "cafe",
-      "canteen",
-      "fast food",
-      "coffee",
-      "dessert",
-      "espresso",
-      "fusion",
-      "greasy",
-      "hamburger",
-      "burger",
-      "kebab",
-      "lunch",
-      "pizzeria",
-      "playground",
-      "sandwich",
-      "softplay",
-      "sushi",
-      "tea",
-      "juice bar",
-      "museum",
-      "zoo",
-      "aquarium",
-      "brasserie",
-      "carvery",
-      "churreria",
-      "creperie",
-      "fish and chip",
-      "grill",
-      "cafeteria",
-      "shelter",
-      "halfway",
-      "prison",
-      "detention",
-      "spa",
-      "charity",
-      "library",
-      "gym",
-      "fast food",
-      "offcie",
-      "church",
-      "mosque",
-      "synagogue",
-      "village hall",
-      "temple",
-      "community",
-      "gastropub",
-      "theatre",
-      "cinema",
-      "stadium",
-      "cirkus",
-      "concert",
-      "music",
-      "bingo",
-      "lounge",
-      "racecoruse",
-      "racetrack",
-      "bowling",
-      "park",
-      "amusement",
-      "fairground",
-      "casino",
-      "attraction"
+      "nursing",
+      "care",
+      "home",
+      "elderly",
+      "sheltered",
+      "adult",
+      "residential",
+      "aged",
+      "retirement",
+      "day",
+      "centre"
     ],
     "answerIds": [
       "TYPE-A1",
-      "TYPE-A11",
-      "TYPE-A12",
       "TYPE-A3",
       "TYPE-A4",
       "TYPE-A5",
-      "TYPE-A6"
+      "TYPE-A6",
+      "TYPE-A7",
+      "TYPE-A12"
     ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Hospitals": {
+    "displayName": "Hospital",
+    "searchTerms": [
+      "hospital",
+      "GP",
+      "emergency",
+      "medical",
+      "health",
+      "clinic",
+      "infirmary",
+      "hospice"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7",
+      "TYPE-A12"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Childminder": {
+    "displayName": "Childminder",
+    "searchTerms": ["child", "minder", "childminder", "babysitter", "nanny"],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7",
+      "TYPE-A10",
+      "TYPE-A12"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Childcare, Nursery; pre/after school care; play group etc-Meals": {
+    "displayName": "Childcare, nursery or play group",
+    "searchTerms": [
+      "child",
+      "childcarer",
+      "care",
+      "nursery",
+      "babysitter",
+      "nanny",
+      "daycare",
+      "playgroup",
+      "play",
+      "au pair",
+      "breakfast club"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7",
+      "TYPE-A12"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Educational establishment (schools, colleges, university)": {
+    "displayName": "Educational establishment",
+    "searchTerms": [
+      "school",
+      "college",
+      "university",
+      "canteen",
+      "academy",
+      "boarding",
+      "gymnasium",
+      "preparatory",
+      "preschool",
+      "primary"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7",
+      "TYPE-A12"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Mobile retailer": {
+    "displayName": "Mobile retailer",
+    "searchTerms": [
+      "mobile",
+      "retailer",
+      "movable",
+      "market",
+      "bazar",
+      "foodtruck",
+      "food truck",
+      "pop up",
+      "popup",
+      "vehicle",
+      "stall",
+      "car",
+      "bike",
+      "ice cream van",
+      "van",
+      "festival",
+      "retail",
+      "street",
+      "vendor"
+    ],
+    "answerIds": ["TYPE-A1", "TYPE-A4", "TYPE-A8", "TYPE-A9", "TYPE-A12"],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Mobile caterer": {
+    "displayName": "Mobile caterer",
+    "searchTerms": [
+      "mobile",
+      "caterer",
+      "movable",
+      "market",
+      "bazar",
+      "foodtruck",
+      "food truck",
+      "pop up",
+      "popup",
+      "vehicle",
+      "stall",
+      "car",
+      "bike",
+      "ice cream van",
+      "van",
+      "festival",
+      "event",
+      "party",
+      "function",
+      "burger van",
+      "hot dog stand",
+      "street",
+      "vendor"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A8",
+      "TYPE-A10",
+      "TYPE-A12"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Movable food establishment": {
+    "displayName": "Movable food establishment",
+    "searchTerms": [
+      "movable",
+      "train",
+      "locomotive",
+      "cruise",
+      "boat",
+      "ship",
+      "catamaran",
+      "airplane",
+      "plane",
+      "ferry",
+      "yacht",
+      "coach",
+      "bus"
+    ],
+    "answerIds": [
+      "TYPE-A1",
+      "TYPE-A3",
+      "TYPE-A4",
+      "TYPE-A5",
+      "TYPE-A6",
+      "TYPE-A7",
+      "TYPE-A8",
+      "TYPE-A12"
+    ],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Contract caterer": {
+    "displayName": "Contract caterer",
+    "searchTerms": [
+      "contract",
+      "caterer",
+      "wedding",
+      "event",
+      "party",
+      "occasion",
+      "function"
+    ],
+    "answerIds": [],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Home caterer": {
+    "displayName": "Home caterer",
+    "searchTerms": [
+      "home",
+      "caterer",
+      "baker",
+      "cake",
+      "cupcake",
+      "house",
+      "domestic",
+      "cookie"
+    ],
+    "answerIds": [],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Meat cutting plant/catering butcher": {
+    "displayName": "Meat cutting plant or commercial butcher",
+    "searchTerms": [
+      "butcher",
+      "meat",
+      "halal",
+      "commercial",
+      "cutting",
+      "butchery"
+    ],
+    "answerIds": [],
+    "baseScores": {
+      "Type of food and method of handling": 0,
+      "Method of processing": 0,
+      "Consumers at risk": 0,
+      "Vulnerable group": 0
+    }
+  },
+  "Auction hall (fish)": {
+    "displayName": "Food auction hall",
+    "searchTerms": ["auction", "hall", "auctioneer", "bidding"],
+    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
