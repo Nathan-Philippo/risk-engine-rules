@@ -96,9 +96,9 @@
     "searchTerms": ["egg", "duck", "chicken", "quail", "processor"],
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 40,
       "Method of processing": 0,
-      "Consumers at risk": 10,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -337,7 +337,7 @@
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
-      "Method of processing": 0,
+      "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
     }
@@ -469,7 +469,7 @@
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 10,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -648,7 +648,7 @@
     "searchTerms": ["delivery", "service", "meals on wheels", "order"],
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 5,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
@@ -687,7 +687,7 @@
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 10,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -724,7 +724,7 @@
     ],
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 40,
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
@@ -769,7 +769,7 @@
     ],
     "answerIds": ["TYPE-A0"],
     "baseScores": {
-      "Type of food and method of handling": 5,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
@@ -846,9 +846,9 @@
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -876,7 +876,7 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 5,
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
@@ -897,9 +897,9 @@
       "TYPE-A9"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -1105,7 +1105,7 @@
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 10,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -1189,7 +1189,7 @@
       "music",
       "bingo",
       "lounge",
-      "racecoruse",
+      "racecourse",
       "racetrack",
       "bowling",
       "park",
@@ -1226,7 +1226,7 @@
     }
   },
   "Restaurant/Cafe/Canteen/Fast food restaurant": {
-    "displayName": "Restaurant, cafe, canteen, or fast food restaurant",
+    "displayName": "Restaurant, cafe, canteen or fast food",
     "searchTerms": [
       "restaurant",
       "bistro",
@@ -1275,7 +1275,7 @@
       "library",
       "gym",
       "fast food",
-      "offcie",
+      "office",
       "church",
       "mosque",
       "synagogue",
@@ -1291,7 +1291,7 @@
       "music",
       "bingo",
       "lounge",
-      "racecoruse",
+      "racecourse",
       "racetrack",
       "bowling",
       "park",
@@ -1299,7 +1299,14 @@
       "fairground",
       "casino",
       "attraction"
-    ]
+    ],
+    "answerIds": [],
+    "baseScores": {
+      "Type of food and method of handling": 30,
+      "Method of processing": 0,
+      "Consumers at risk": 5,
+      "Vulnerable group": 0
+    }
   },
   "Hostel or B&B": {
     "displayName": "Hostel or bed & breakfast ",
@@ -1327,7 +1334,7 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
@@ -1384,7 +1391,7 @@
       "bingo",
       "disco",
       "lounge",
-      "racecoruse",
+      "racecourse",
       "racetrack",
       "bowling",
       "park",
@@ -1432,7 +1439,7 @@
       "bingo",
       "disco",
       "lounge",
-      "racecoruse",
+      "racecourse",
       "racetrack",
       "bowling",
       "park",
@@ -1507,7 +1514,7 @@
       "library",
       "gym",
       "fast food",
-      "offcie",
+      "office",
       "church",
       "mosque",
       "synagogue",
@@ -1523,7 +1530,7 @@
       "music",
       "bingo",
       "lounge",
-      "racecoruse",
+      "racecourse",
       "racetrack",
       "bowling",
       "park",
@@ -1789,9 +1796,9 @@
       "TYPE-A12"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 10,
       "Vulnerable group": 0
     }
   },
@@ -1828,9 +1835,9 @@
     ],
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 50,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 5,
       "Vulnerable group": 0
     }
   },
@@ -1846,9 +1853,9 @@
     ],
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   },
@@ -1857,9 +1864,9 @@
     "searchTerms": ["auction", "hall", "auctioneer", "bidding"],
     "answerIds": [],
     "baseScores": {
-      "Type of food and method of handling": 0,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
-      "Consumers at risk": 0,
+      "Consumers at risk": 15,
       "Vulnerable group": 0
     }
   }
