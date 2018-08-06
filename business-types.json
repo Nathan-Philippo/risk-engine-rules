@@ -34,7 +34,7 @@
   },
   "Farm-Arable": {
     "displayName": "Arable farm",
-    "searchTerms": ["farm", "crop", "agriculture"],
+    "searchTerms": ["farm", "crop", "agriculture", "arable"],
     "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -1302,7 +1302,7 @@
     ]
   },
   "Hostel or B&B": {
-    "displayName": "Hostel or bed & breakfast ",
+    "displayName": "Hostel or bed and breakfast ",
     "searchTerms": [
       "hostel",
       "bed",
