@@ -1,7 +1,7 @@
 {
   "Farm-Fruit and vegetable grower": {
     "displayName": "Fruit and vegetable farm",
-    "searchTerms": ["farmer", "grower", "agriculture"],
+    "searchTerms": ["farmer", "grower", "agriculture", "orchard"],
     "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -44,7 +44,7 @@
   },
   "Beekeeper": {
     "displayName": "Beekeeper",
-    "searchTerms": ["bee", "honey", "farmer", "hive", "keeper"],
+    "searchTerms": ["honey", "farmer", "hive", "keeper", "apiarist"],
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -107,7 +107,6 @@
   "Fishing vessel": {
     "displayName": "Fishing boat",
     "searchTerms": [
-      "fish",
       "fisherman",
       "vessel",
       "ship",
@@ -136,10 +135,8 @@
   "Farmed fishing": {
     "displayName": "Fish farm",
     "searchTerms": [
-      "fishing",
       "fisherman",
       "fishfarm",
-      "fisher",
       "seafood",
       "shellfish",
       "oyster",
@@ -184,7 +181,9 @@
       "smoking",
       "drying",
       "mincing",
-      "ham"
+      "ham",
+      "maker",
+      "producer"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
@@ -200,7 +199,6 @@
       "slaughterhouse",
       "slaughter",
       "butcher",
-      "butchery",
       "halal",
       "cutting"
     ],
@@ -231,7 +229,9 @@
       "drying",
       "airdrying",
       "brining",
-      "pickling"
+      "pickling",
+      "producer",
+      "maker"
     ],
     "answerIds": [],
     "baseScores": {
@@ -279,7 +279,9 @@
       "crisp",
       "canning",
       "freezing",
-      "mash"
+      "mash",
+      "maker",
+      "produce"
     ],
     "answerIds": [],
     "baseScores": {
@@ -292,13 +294,14 @@
   "Manufacture of fruit and vegetable juice": {
     "displayName": "Fruit and vegetable juice manufacturer",
     "searchTerms": [
-      "juice",
       "drink",
       "factory",
       "lassi",
       "smoothie",
       "bottling",
-      "blending"
+      "blending",
+      "maker",
+      "produce"
     ],
     "answerIds": [
       "TYPE-A0",
@@ -331,7 +334,9 @@
       "freezing",
       "salting",
       "canning",
-      "peanut butter"
+      "peanut butter",
+      "maker",
+      "produce"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
@@ -352,7 +357,9 @@
       "vegetable",
       "rapeseed",
       "olive",
-      "sunflower"
+      "sunflower",
+      "maker",
+      "produce"
     ],
     "answerIds": ["TYPE-A6", "TYPE-A9"],
     "baseScores": {
@@ -372,7 +379,9 @@
       "cream",
       "cheddar",
       "milk",
-      "whey"
+      "whey",
+      "maker",
+      "produce"
     ],
     "answerIds": [
       "TYPE-A0",
@@ -398,7 +407,9 @@
       "factory",
       "frozen",
       "gelato",
-      "yoghurt"
+      "yoghurt",
+      "maker",
+      "produce"
     ],
     "answerIds": [
       "TYPE-A0",
@@ -420,12 +431,13 @@
   "Commercial bakery": {
     "displayName": "Commercial bakery",
     "searchTerms": [
-      "baker",
       "patisserie",
       "pastry",
       "manufacturer",
       "cake",
-      "bread"
+      "bread",
+      "maker",
+      "produce"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
@@ -438,14 +450,13 @@
   "Manufacture of prepared meals and dishes": {
     "displayName": "Ready to eat meals or food manufacturer",
     "searchTerms": [
-      "ready made",
-      "ready",
-      "dishes",
+      "dish",
       "readymeal",
       "factory",
-      "microwave meal",
+      "microwave",
       "frozen",
-      "ready to eat"
+      "maker",
+      "produce"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
@@ -465,7 +476,9 @@
       "manufacturer",
       "diet",
       "health",
-      "weaning"
+      "weaning",
+      "maker",
+      "produce"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
@@ -484,7 +497,8 @@
       "processing",
       "factory",
       "make",
-      "produce"
+      "produce",
+      "maker"
     ],
     "answerIds": [],
     "baseScores": {
@@ -497,11 +511,10 @@
   "Manufacture-Alcoholic drinks": {
     "displayName": "Alcoholic drinks manufacturer",
     "searchTerms": [
-      "brewing",
+      "brew",
       "microbrewery",
       "brewery",
       "distillery",
-      "alcohol",
       "wine",
       "liqour",
       "spirit",
@@ -520,7 +533,9 @@
       "whiskey",
       "vodka",
       "rum",
-      "craft"
+      "craft",
+      "maker",
+      "produce"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
@@ -541,10 +556,11 @@
       "mineral",
       "carbonated",
       "bottle",
-      "bottling",
       "lemonade",
       "spring",
-      "energy"
+      "energy",
+      "maker",
+      "produce"
     ],
     "answerIds": [],
     "baseScores": {
@@ -556,7 +572,7 @@
   },
   "Packer-Mineral waters": {
     "displayName": "Mineral water packer",
-    "searchTerms": ["sparkling", "carbonated", "bottle", "bottling", "spring"],
+    "searchTerms": ["sparkling", "carbonated", "bottle", "spring"],
     "answerIds": ["TYPE-A0", "TYPE-A2"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -570,8 +586,6 @@
     "searchTerms": [
       "cannery",
       "canning",
-      "bottling",
-      "packing",
       "flowrapping",
       "cartoning",
       "potting",
@@ -691,12 +705,13 @@
     "searchTerms": [
       "internet",
       "amazon",
-      "etsy",
       "ebay",
       "computer",
       "web",
       "distance",
-      "order"
+      "order",
+      "shop",
+      "website"
     ],
     "answerIds": [
       "TYPE-A0",
@@ -723,7 +738,7 @@
       "convenience",
       "shop",
       "retail",
-      "retailer"
+      "store"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -750,8 +765,7 @@
       "store",
       "grocery",
       "license",
-      "retail",
-      "retailer"
+      "retail"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
@@ -763,14 +777,7 @@
   },
   "Farm-Gate sales": {
     "displayName": "Farm gate sales",
-    "searchTerms": [
-      "eggs",
-      "potatoes",
-      "farmshop",
-      "gatesale",
-      "retail",
-      "retailer"
-    ],
+    "searchTerms": ["eggs", "potatoes", "farmshop", "gatesale", "retail"],
     "answerIds": [
       "TYPE-A1",
       "TYPE-A11",
@@ -791,7 +798,7 @@
   },
   "Farm shop": {
     "displayName": "Farm shop",
-    "searchTerms": ["retail", "retailer", "farmshop"],
+    "searchTerms": ["retail", "farmshop"],
     "answerIds": [
       "TYPE-A1",
       "TYPE-A11",
@@ -813,14 +820,13 @@
   "Confectionery/sweet shop": {
     "displayName": "Sweet shop or Confectioner",
     "searchTerms": [
-      "confectionary",
+      "confectionery",
       "candy",
       "dessert",
       "chocolatier",
-      "retail",
+      "store",
       "bonbon",
-      "retail",
-      "retailer"
+      "retail"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
@@ -836,10 +842,10 @@
       "meat",
       "halal",
       "retail",
-      "retailer",
       "consumer",
       "cutting",
-      "butchery"
+      "store",
+      "shop"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -859,13 +865,13 @@
   "Fishmonger": {
     "displayName": "Fishmonger",
     "searchTerms": [
-      "fish",
       "seafood",
       "monger",
       "grocer",
       "retail",
-      "retailer",
-      "shellfish"
+      "shellfish",
+      "shop",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
@@ -878,13 +884,13 @@
   "Greengrocer/fruiterer": {
     "displayName": "Greengrocer",
     "searchTerms": [
-      "retailer",
       "fruiterer",
       "fruit",
       "vegetable",
       "shop",
       "grocer",
-      "retail"
+      "retail",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
@@ -898,10 +904,8 @@
     "displayName": "Health food shop",
     "searchTerms": [
       "retail",
-      "retailer",
       "vitamins",
       "supplements",
-      "healthy",
       "organic",
       "freefrom",
       "natural",
@@ -909,7 +913,8 @@
       "goodness",
       "wellness",
       "nutrition",
-      "dietary"
+      "dietary",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
@@ -922,16 +927,15 @@
   "Bakers shop (retail only)": {
     "displayName": "Bakery",
     "searchTerms": [
-      "baker",
       "pastry",
       "shop",
       "patisserie",
       "bread",
       "retail",
-      "retailer",
       "bread",
       "cake",
-      "cookies"
+      "cookies",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A3", "TYPE-A4", "TYPE-A5", "TYPE-A6"],
     "baseScores": {
@@ -945,15 +949,14 @@
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
       "supermarket",
-      "news",
       "postoffice",
       "convenience",
       "shop",
       "tobacconist",
       "newsstand",
       "retail",
-      "retailer",
-      "corner"
+      "corner",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
@@ -977,13 +980,14 @@
   "Off licence": {
     "displayName": "Off licence",
     "searchTerms": [
-      "retailer",
       "tobacconist",
       "wine",
       "alcohol",
       "beer",
       "spirits",
-      "retail"
+      "retail",
+      "shop",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
@@ -999,10 +1003,10 @@
       "supermarket",
       "retail",
       "gas",
-      "retailer",
       "store",
       "convenience",
-      "shop"
+      "shop",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
@@ -1019,8 +1023,9 @@
       "cold cut",
       "kosher",
       "retail",
-      "retailer",
-      "charcuterie"
+      "charcuterie",
+      "shop",
+      "store"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -1041,11 +1046,11 @@
     "displayName": "Chemist",
     "searchTerms": [
       "supermarket",
-      "retailer",
       "pharmacy",
       "retail",
       "apothecary",
-      "shop"
+      "shop",
+      "store"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
@@ -1059,9 +1064,10 @@
     "displayName": "Any other retailer",
     "searchTerms": [
       "supermarket",
+      "shop",
+      "store",
       "grocery",
       "market",
-      "store",
       "convenience",
       "shop",
       "foodbank",
@@ -1499,7 +1505,7 @@
   },
   "Childminder": {
     "displayName": "Childminder",
-    "searchTerms": ["child", "minder", "babysitter", "nanny"],
+    "searchTerms": ["minder", "babysitter", "nanny"],
     "answerIds": [
       "TYPE-A1",
       "TYPE-A3",
@@ -1520,7 +1526,6 @@
   "Childcare, Nursery; pre/after school care; play group etc-Meals": {
     "displayName": "Childcarer, nursery or play group",
     "searchTerms": [
-      "child",
       "care",
       "babysitter",
       "nanny",
@@ -1661,7 +1666,8 @@
       "ferry",
       "yacht",
       "coach",
-      "bus"
+      "bus",
+      "tram"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -1693,7 +1699,15 @@
   },
   "Home caterer": {
     "displayName": "Home caterer",
-    "searchTerms": ["baker", "cake", "cupcake", "house", "domestic", "cookie"],
+    "searchTerms": [
+      "baker",
+      "cake",
+      "cupcake",
+      "house",
+      "domestic",
+      "cookie",
+      "flat"
+    ],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 50,
