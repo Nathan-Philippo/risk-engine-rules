@@ -1,7 +1,7 @@
 {
   "Farm-Fruit and vegetable grower": {
     "displayName": "Fruit and vegetable farm",
-    "searchTerms": ["fruit", "vegetable", "grower", "agriculture", "farm"],
+    "searchTerms": ["farmer", "grower", "agriculture"],
     "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -13,8 +13,7 @@
   "Farm-Livestock": {
     "displayName": "Livestock farm",
     "searchTerms": [
-      "farm",
-      "livestock",
+      "farmer",
       "cow",
       "pig",
       "chicken",
@@ -34,7 +33,7 @@
   },
   "Farm-Arable": {
     "displayName": "Arable farm",
-    "searchTerms": ["farm", "crop", "agriculture", "arable"],
+    "searchTerms": ["farmer", "crop", "agriculture"],
     "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -44,8 +43,8 @@
     }
   },
   "Beekeeper": {
-    "displayName": "Beekeper",
-    "searchTerms": ["beekeper", "bee", "honey", "farmer", "hive"],
+    "displayName": "Beekeeper",
+    "searchTerms": ["bee", "honey", "farmer", "hive", "keeper"],
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -56,7 +55,7 @@
   },
   "Honey maker": {
     "displayName": "Honey maker",
-    "searchTerms": ["honey", "bee", "maker", "honeymaker"],
+    "searchTerms": ["bee", "manufacturer", "honeymaker"],
     "answerIds": [
       "TYPE-A1",
       "TYPE-A10",
@@ -74,15 +73,7 @@
   },
   "Hunting and trapping": {
     "displayName": "Hunting and trapping",
-    "searchTerms": [
-      "hunting",
-      "trapping",
-      "wildlife",
-      "game",
-      "wild",
-      "fowl",
-      "deer"
-    ],
+    "searchTerms": ["wildlife", "game", "wild", "fowl", "deer"],
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -93,7 +84,7 @@
   },
   "Egg processor": {
     "displayName": "Egg processor",
-    "searchTerms": ["egg", "duck", "chicken", "quail", "processor"],
+    "searchTerms": ["duck", "chicken", "quail"],
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -104,7 +95,7 @@
   },
   "Egg producer": {
     "displayName": "Egg producer or packer",
-    "searchTerms": ["egg", "producer", "duck", "quail", "chicken", "packer"],
+    "searchTerms": ["duck", "quail", "chicken"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -116,11 +107,9 @@
   "Fishing vessel": {
     "displayName": "Fishing boat",
     "searchTerms": [
-      "fishing",
       "fish",
       "fisherman",
       "vessel",
-      "boat",
       "ship",
       "seafood",
       "shellfish",
@@ -148,7 +137,6 @@
     "displayName": "Fish farm",
     "searchTerms": [
       "fishing",
-      "fish",
       "fisherman",
       "fishfarm",
       "fisher",
@@ -182,7 +170,6 @@
     "searchTerms": [
       "processing",
       "preserving",
-      "meat",
       "airdrying",
       "salting",
       "jerky",
@@ -197,8 +184,7 @@
       "smoking",
       "drying",
       "mincing",
-      "ham",
-      "manufacturer"
+      "ham"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
@@ -211,7 +197,6 @@
   "Abattoirs": {
     "displayName": "Abattoir",
     "searchTerms": [
-      "abattoir",
       "slaughterhouse",
       "slaughter",
       "butcher",
@@ -232,9 +217,7 @@
     "searchTerms": [
       "processing",
       "preserving",
-      "fish",
       "crustecean",
-      "manufacturer",
       "crab",
       "lobster",
       "shrimp",
@@ -261,9 +244,7 @@
   "Purification centres for shellfish": {
     "displayName": "Shellfish purification centre",
     "searchTerms": [
-      "purification",
       "plant",
-      "shellfish",
       "oyster",
       "mussels",
       "clams",
@@ -295,8 +276,6 @@
       "processing",
       "preserving",
       "chip",
-      "potato",
-      "manufacturer",
       "crisp",
       "canning",
       "freezing",
@@ -313,11 +292,8 @@
   "Manufacture of fruit and vegetable juice": {
     "displayName": "Fruit and vegetable juice manufacturer",
     "searchTerms": [
-      "fruit",
-      "vegetable",
       "juice",
       "drink",
-      "manufacturer",
       "factory",
       "lassi",
       "smoothie",
@@ -345,11 +321,8 @@
   "Other processing and preserving of fruit and vegetables": {
     "displayName": "Fruit and vegetable product manufacturer",
     "searchTerms": [
-      "fruit",
-      "vegetable",
       "processor",
       "processing",
-      "manufacturer",
       "factory",
       "preserving",
       "drying",
@@ -371,11 +344,8 @@
   "Manufacture of oils and fats": {
     "displayName": "Oil and/or fat manufacturer",
     "searchTerms": [
-      "oil",
-      "fat",
       "lard",
       "butter",
-      "manufacturer",
       "factory",
       "margarine",
       "suet",
@@ -395,11 +365,8 @@
   "Operation of dairies and cheese making": {
     "displayName": "Dairies and cheese manufacturer",
     "searchTerms": [
-      "dairy",
-      "cheese",
       "yoghurt",
       "processing",
-      "manufacturer",
       "factory",
       "fromage",
       "cream",
@@ -426,11 +393,8 @@
   "Manufacture of ice cream": {
     "displayName": "Ice cream manufacturer",
     "searchTerms": [
-      "ice",
-      "cream",
       "icecream",
       "processing",
-      "manufacturer",
       "factory",
       "frozen",
       "gelato",
@@ -457,13 +421,11 @@
     "displayName": "Commercial bakery",
     "searchTerms": [
       "baker",
-      "bakery",
       "patisserie",
       "pastry",
       "manufacturer",
       "cake",
-      "bread",
-      "commercial"
+      "bread"
     ],
     "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
@@ -474,13 +436,12 @@
     }
   },
   "Manufacture of prepared meals and dishes": {
-    "displayName": "Ready to eat meals or food manufacturerr",
+    "displayName": "Ready to eat meals or food manufacturer",
     "searchTerms": [
       "ready made",
-      "meals",
+      "ready",
       "dishes",
       "readymeal",
-      "manufacturer",
       "factory",
       "microwave meal",
       "frozen",
@@ -521,7 +482,6 @@
       "mill",
       "processor",
       "processing",
-      "manufacturer",
       "factory",
       "make",
       "produce"
@@ -541,13 +501,10 @@
       "microbrewery",
       "brewery",
       "distillery",
-      "manufacturer",
       "alcohol",
-      "alcoholic",
       "wine",
       "liqour",
       "spirit",
-      "drink",
       "lager",
       "ale",
       "beer",
@@ -577,10 +534,8 @@
     "displayName": "Non alcoholic drinks manufacturer",
     "searchTerms": [
       "soft",
-      "drink",
       "soda",
       "water",
-      "manufacturer",
       "factory",
       "sparkling",
       "mineral",
@@ -601,16 +556,7 @@
   },
   "Packer-Mineral waters": {
     "displayName": "Mineral water packer",
-    "searchTerms": [
-      "packer",
-      "mineral",
-      "sparkling",
-      "water",
-      "carbonated",
-      "bottle",
-      "bottling",
-      "spring"
-    ],
+    "searchTerms": ["sparkling", "carbonated", "bottle", "bottling", "spring"],
     "answerIds": ["TYPE-A0", "TYPE-A2"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -622,8 +568,6 @@
   "Packer-Contract packers": {
     "displayName": "Contract packer",
     "searchTerms": [
-      "packer",
-      "contract",
       "cannery",
       "canning",
       "bottling",
@@ -645,7 +589,7 @@
   },
   "Food delivery service-Deliver food to consumers": {
     "displayName": "Food delivery service",
-    "searchTerms": ["delivery", "service", "meals on wheels", "order"],
+    "searchTerms": ["meals on wheels", "order"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -656,14 +600,7 @@
   },
   "Food delivery service-Process food order only for consumers, e.g. Just Eat": {
     "displayName": "Food ordering service",
-    "searchTerms": [
-      "delivery",
-      "service",
-      "order",
-      "ordering",
-      "process",
-      "aggregator"
-    ],
+    "searchTerms": ["delivery", "process", "aggregator"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -674,15 +611,7 @@
   },
   "Storage provider": {
     "displayName": "Food storage facility",
-    "searchTerms": [
-      "storage",
-      "cold",
-      "warehouse",
-      "coldstore",
-      "facility",
-      "unit",
-      "refrigerated"
-    ],
+    "searchTerms": ["cold", "warehouse", "coldstore", "unit", "refrigerated"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -694,7 +623,6 @@
   "Food broker": {
     "displayName": "Food broker",
     "searchTerms": [
-      "broker",
       "agent",
       "negotiator",
       "intermediator",
@@ -714,14 +642,7 @@
   },
   "Wholesaler": {
     "displayName": "Wholesaler",
-    "searchTerms": [
-      "wholesaler",
-      "supplier",
-      "bulk",
-      "produce",
-      "trade",
-      "grocer"
-    ],
+    "searchTerms": ["supplier", "bulk", "produce", "trade", "grocer"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -732,16 +653,7 @@
   },
   "Cash and carry": {
     "displayName": "Cash and carry",
-    "searchTerms": [
-      "cash",
-      "carry",
-      "cash and carry",
-      "wholesale",
-      "supplier",
-      "membership",
-      "warehouse",
-      "bulk"
-    ],
+    "searchTerms": ["wholesale", "supplier", "membership", "warehouse", "bulk"],
     "answerIds": [
       "TYPE-A0",
       "TYPE-A11",
@@ -760,7 +672,6 @@
   "Haulage company": {
     "displayName": "Haulage company",
     "searchTerms": [
-      "haulage",
       "shipping",
       "transport",
       "freightage",
@@ -778,7 +689,6 @@
   "Internet only food": {
     "displayName": "Online retailer",
     "searchTerms": [
-      "online",
       "internet",
       "amazon",
       "etsy",
@@ -786,8 +696,7 @@
       "computer",
       "web",
       "distance",
-      "order",
-      "retail"
+      "order"
     ],
     "answerIds": [
       "TYPE-A0",
@@ -807,13 +716,14 @@
   "Supermarket": {
     "displayName": "Supermarket",
     "searchTerms": [
-      "supermarket",
       "hypermarket",
       "grocery",
       "market",
       "store",
       "convenience",
-      "shop"
+      "shop",
+      "retail",
+      "retailer"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -836,13 +746,12 @@
     "displayName": "Local convenience store or corner shop",
     "searchTerms": [
       "supermarket",
-      "convenience",
-      "local",
-      "corner",
+      "cornershop",
       "store",
       "grocery",
-      "shop",
-      "license"
+      "license",
+      "retail",
+      "retailer"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
@@ -855,14 +764,12 @@
   "Farm-Gate sales": {
     "displayName": "Farm gate sales",
     "searchTerms": [
-      "farm",
-      "gate",
-      "sales",
       "eggs",
       "potatoes",
       "farmshop",
       "gatesale",
-      "retail"
+      "retail",
+      "retailer"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -884,7 +791,7 @@
   },
   "Farm shop": {
     "displayName": "Farm shop",
-    "searchTerms": ["farm", "retail", "shop", "farmshop"],
+    "searchTerms": ["retail", "retailer", "farmshop"],
     "answerIds": [
       "TYPE-A1",
       "TYPE-A11",
@@ -906,16 +813,14 @@
   "Confectionery/sweet shop": {
     "displayName": "Sweet shop or Confectioner",
     "searchTerms": [
-      "confectioner",
       "confectionary",
-      "sweet",
       "candy",
-      "shop",
       "dessert",
       "chocolatier",
       "retail",
       "bonbon",
-      "retail"
+      "retail",
+      "retailer"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
@@ -928,10 +833,10 @@
   "Butcher (retail only)": {
     "displayName": "Butcher",
     "searchTerms": [
-      "butcher",
       "meat",
       "halal",
       "retail",
+      "retailer",
       "consumer",
       "cutting",
       "butchery"
@@ -954,12 +859,12 @@
   "Fishmonger": {
     "displayName": "Fishmonger",
     "searchTerms": [
-      "fishmonger",
       "fish",
       "seafood",
       "monger",
       "grocer",
       "retail",
+      "retailer",
       "shellfish"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A9"],
@@ -973,7 +878,7 @@
   "Greengrocer/fruiterer": {
     "displayName": "Greengrocer",
     "searchTerms": [
-      "greengrocer",
+      "retailer",
       "fruiterer",
       "fruit",
       "vegetable",
@@ -992,8 +897,8 @@
   "Health food shop": {
     "displayName": "Health food shop",
     "searchTerms": [
-      "health",
-      "shop",
+      "retail",
+      "retailer",
       "vitamins",
       "supplements",
       "healthy",
@@ -1017,13 +922,13 @@
   "Bakers shop (retail only)": {
     "displayName": "Bakery",
     "searchTerms": [
-      "bakery",
       "baker",
       "pastry",
       "shop",
       "patisserie",
       "bread",
       "retail",
+      "retailer",
       "bread",
       "cake",
       "cookies"
@@ -1040,15 +945,14 @@
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
       "supermarket",
-      "newsagent",
       "news",
-      "post",
       "postoffice",
       "convenience",
       "shop",
       "tobacconist",
       "newsstand",
       "retail",
+      "retailer",
       "corner"
     ],
     "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
@@ -1061,7 +965,7 @@
   },
   "Market stalls": {
     "displayName": "Market stalls with permanent pitch",
-    "searchTerms": ["stall", "pop up", "popup", "market", "bazar"],
+    "searchTerms": ["pop up", "popup", "bazar"],
     "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -1073,8 +977,7 @@
   "Off licence": {
     "displayName": "Off licence",
     "searchTerms": [
-      "licence",
-      "off",
+      "retailer",
       "tobacconist",
       "wine",
       "alcohol",
@@ -1094,9 +997,9 @@
     "displayName": "Petrol station or garage",
     "searchTerms": [
       "supermarket",
-      "petrol",
+      "retail",
       "gas",
-      "garage",
+      "retailer",
       "store",
       "convenience",
       "shop"
@@ -1112,12 +1015,11 @@
   "Delicatessen": {
     "displayName": "Delicatessen",
     "searchTerms": [
-      "delicatessen",
-      "deli",
       "ham",
       "cold cut",
       "kosher",
       "retail",
+      "retailer",
       "charcuterie"
     ],
     "answerIds": [
@@ -1139,7 +1041,7 @@
     "displayName": "Chemist",
     "searchTerms": [
       "supermarket",
-      "chemist",
+      "retailer",
       "pharmacy",
       "retail",
       "apothecary",
@@ -1157,7 +1059,6 @@
     "displayName": "Any other retailer",
     "searchTerms": [
       "supermarket",
-      "retailer",
       "grocery",
       "market",
       "store",
@@ -1174,7 +1075,7 @@
       "charity",
       "library",
       "gym",
-      "offcie",
+      "office",
       "church",
       "mosque",
       "synagogue",
@@ -1209,8 +1110,6 @@
   "Vending machine": {
     "displayName": "Vending machine",
     "searchTerms": [
-      "vending",
-      "machine",
       "drinks",
       "snacks",
       "sweets",
@@ -1228,7 +1127,6 @@
   "Restaurant/Cafe/Canteen/Fast food restaurant": {
     "displayName": "Restaurant, cafe, canteen or fast food",
     "searchTerms": [
-      "restaurant",
       "bistro",
       "brunch",
       "afternoon tea",
@@ -1237,9 +1135,6 @@
       "dinner",
       "diner",
       "Buffet",
-      "cafe",
-      "canteen",
-      "fast food",
       "coffee",
       "dessert",
       "espresso",
@@ -1311,10 +1206,10 @@
   "Hostel or B&B": {
     "displayName": "Hostel or bed and breakfast ",
     "searchTerms": [
-      "hostel",
-      "bed",
-      "breakfast",
       "B&B",
+      "&",
+      "B & B",
+      "B and B",
       "guesthouse",
       "inn",
       "motel",
@@ -1343,7 +1238,6 @@
   "Hotels": {
     "displayName": "Hotel",
     "searchTerms": [
-      "hotel",
       "guesthouse",
       "inn",
       "motel",
@@ -1372,7 +1266,6 @@
   "Pubs - Meals": {
     "displayName": "Pub serving meals",
     "searchTerms": [
-      "pub",
       "bar",
       "alcohol",
       "drinks",
@@ -1421,10 +1314,8 @@
   "Pubs - snacks and drinks only": {
     "displayName": "Pub serving only snacks and drinks",
     "searchTerms": [
-      "pub",
       "bar",
       "alcohol",
-      "drinks",
       "cocktail",
       "beer",
       "theatre",
@@ -1464,7 +1355,6 @@
     "searchTerms": [
       "takeaway",
       "to go",
-      "take away",
       "kiosk",
       "drive through",
       "restaurant",
@@ -1557,17 +1447,12 @@
   "Nursing, care homes, day centres": {
     "displayName": "Nursing home, care home or day centre",
     "searchTerms": [
-      "nursing",
-      "care",
-      "home",
       "elderly",
       "sheltered",
       "adult",
       "residential",
       "aged",
-      "retirement",
-      "day",
-      "centre"
+      "retirement"
     ],
     "answerIds": [
       "TYPE-A1",
@@ -1588,7 +1473,6 @@
   "Hospitals": {
     "displayName": "Hospital",
     "searchTerms": [
-      "hospital",
       "GP",
       "emergency",
       "medical",
@@ -1615,7 +1499,7 @@
   },
   "Childminder": {
     "displayName": "Childminder",
-    "searchTerms": ["child", "minder", "childminder", "babysitter", "nanny"],
+    "searchTerms": ["child", "minder", "babysitter", "nanny"],
     "answerIds": [
       "TYPE-A1",
       "TYPE-A3",
@@ -1634,17 +1518,14 @@
     }
   },
   "Childcare, Nursery; pre/after school care; play group etc-Meals": {
-    "displayName": "Childcare, nursery or play group",
+    "displayName": "Childcarer, nursery or play group",
     "searchTerms": [
       "child",
-      "childcarer",
       "care",
-      "nursery",
       "babysitter",
       "nanny",
       "daycare",
       "playgroup",
-      "play",
       "au pair",
       "breakfast club"
     ],
@@ -1697,13 +1578,12 @@
   "Mobile retailer": {
     "displayName": "Mobile retailer",
     "searchTerms": [
-      "mobile",
-      "retailer",
       "movable",
       "market",
       "bazar",
       "foodtruck",
       "food truck",
+      "food van",
       "pop up",
       "popup",
       "vehicle",
@@ -1728,8 +1608,6 @@
   "Mobile caterer": {
     "displayName": "Mobile caterer",
     "searchTerms": [
-      "mobile",
-      "caterer",
       "movable",
       "market",
       "bazar",
@@ -1748,6 +1626,7 @@
       "party",
       "function",
       "burger van",
+      "food van",
       "hot dog stand",
       "street",
       "vendor"
@@ -1771,7 +1650,6 @@
   "Movable food establishment": {
     "displayName": "Movable food establishment",
     "searchTerms": [
-      "movable",
       "train",
       "locomotive",
       "cruise",
@@ -1804,15 +1682,7 @@
   },
   "Contract caterer": {
     "displayName": "Contract caterer",
-    "searchTerms": [
-      "contract",
-      "caterer",
-      "wedding",
-      "event",
-      "party",
-      "occasion",
-      "function"
-    ],
+    "searchTerms": ["wedding", "event", "party", "occasion", "function"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -1823,16 +1693,7 @@
   },
   "Home caterer": {
     "displayName": "Home caterer",
-    "searchTerms": [
-      "home",
-      "caterer",
-      "baker",
-      "cake",
-      "cupcake",
-      "house",
-      "domestic",
-      "cookie"
-    ],
+    "searchTerms": ["baker", "cake", "cupcake", "house", "domestic", "cookie"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 50,
@@ -1843,14 +1704,7 @@
   },
   "Meat cutting plant/catering butcher": {
     "displayName": "Meat cutting plant or commercial butcher",
-    "searchTerms": [
-      "butcher",
-      "meat",
-      "halal",
-      "commercial",
-      "cutting",
-      "butchery"
-    ],
+    "searchTerms": ["halal", "butchery"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -1861,7 +1715,7 @@
   },
   "Auction hall (fish)": {
     "displayName": "Food auction hall",
-    "searchTerms": ["auction", "hall", "auctioneer", "bidding"],
+    "searchTerms": ["auctioneer", "bidding"],
     "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
