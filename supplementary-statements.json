@@ -1,0 +1,160 @@
+[
+  {
+    "id": "CAR1",
+    "wording": "Only distribute or sell food locally"
+  },
+  {
+    "id": "CAR2",
+    "wording": "Sell more than 2 tonnes of meat each week"
+  },
+  {
+    "id": "CAR3",
+    "wording": "Distrubute food nationally"
+  },
+  {
+    "id": "CAR4",
+    "wording": "Be a hypermarket or superstore"
+  },
+  {
+    "id": "CAR5",
+    "wording":
+      "Be located in a travel area. For example motorway service area or airport."
+  },
+  {
+    "id": "CAR6",
+    "wording": "Sell food online"
+  },
+  {
+    "id": "CAR7",
+    "wording": "Serve less than 20 people each day"
+  },
+  {
+    "id": "CAR8",
+    "wording": "Grade eggs"
+  },
+  {
+    "id": "FAH1",
+    "wording":
+      "Package and fille, slice, skin, mince, freeze or process seafood"
+  },
+  {
+    "id": "FAH2",
+    "wording":
+      "Manufacture high risk ready to eat food. For example smoothies, meat pies or liquid egg."
+  },
+  {
+    "id": "FAH3",
+    "wording":
+      "Only pack low risk food. Such as drinks, crisps or other shelf stable items."
+  },
+  {
+    "id": "FAH4",
+    "wording": "Deliver food to customers"
+  },
+  {
+    "id": "FAH5",
+    "wording":
+      "Re-wrap or re-pack high risk food. For example sandwhiches, meat or cheese."
+  },
+  {
+    "id": "FAH6",
+    "wording":
+      "Only sell low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks."
+  },
+  {
+    "id": "FAH7",
+    "wording":
+      "Cooking or preparing high risk food. For example sandwiches, meat or soup."
+  },
+  {
+    "id": "FAH8",
+    "wording": "ISell raw milk"
+  },
+  {
+    "id": "FAH9",
+    "wording":
+      "Sell or handle high risk pre-packed food. For example meat, sandwiches or scooped ice cream."
+  },
+  {
+    "id": "FAH10",
+    "wording":
+      "Only sell food that can be stored in room temperature and raw meat"
+  },
+  {
+    "id": "FAH11",
+    "wording":
+      "Handle or sell pre-packed high risk food. For example sandwiches, meat or cheese."
+  },
+  {
+    "id": "FAH12",
+    "wording": "Vend high risk pre packed food. For example sandwiches"
+  },
+  {
+    "id": "FAH13",
+    "wording":
+      "Prepare, cook or handle high risk non packaged food. For example pizza or soup"
+  },
+  {
+    "id": "FAH14",
+    "wording":
+      "Only sell food that can be stored in room temperature and raw fish"
+  },
+  {
+    "id": "FAH15",
+    "wording":
+      "Prepare high risk food, such as sandwiches, meat or soup, but only serve less than 20 people a day"
+  },
+  {
+    "id": "FAH16",
+    "wording":
+      "Only provide drinks and low risk snacks. For example fruit or crisps"
+  },
+  {
+    "id": "FAH17",
+    "wording":
+      "Only make low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
+  },
+  {
+    "id": "PRO1",
+    "wording": "Pasteurise or use other shelf life extending methods"
+  },
+  {
+    "id": "PRO2",
+    "wording": "Only use pasteurised milk or milk powder"
+  },
+  {
+    "id": "PRO3",
+    "wording": "Vacuum pack food"
+  },
+  {
+    "id": "PRO4",
+    "wording": "Process and supply seafood to other businesses"
+  },
+  {
+    "id": "PRO5",
+    "wording": "Cook and prepare own hams"
+  },
+  {
+    "id": "PRO6",
+    "wording":
+      "Serve undercooked or raw meat or fish. For example rare burgers, sushi or tartare."
+  },
+  {
+    "id": "PRO7",
+    "wording": "Only operate a cook chill operation"
+  },
+  {
+    "id": "PRO8",
+    "wording":
+      "Use specialist processing methods. For example sous-vide cooking, cooking with acid or vacuum packing foods."
+  },
+  {
+    "id": "VG1",
+    "wording": "Serve food to elderly or children under five"
+  },
+  {
+    "id": "VG2",
+    "wording":
+      "Serve food to vulnerable groups larger than 20 people. For example sick or elderly."
+  }
+]
