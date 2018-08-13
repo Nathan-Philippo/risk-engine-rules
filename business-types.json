@@ -62,7 +62,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Hunting and trapping",
@@ -84,7 +92,21 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "PRO1",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Egg producer",
@@ -95,7 +117,15 @@
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR8",
+        "overrides": {
+          "Consumers at risk": 5
+        }
+      }
+    ]
   },
   {
     "dataName": "Fishing vessel",
@@ -184,7 +214,15 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Abattoirs",
@@ -232,7 +270,15 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Purification centres for shellfish",
@@ -254,7 +300,15 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Processing and preserving of potatoes",
@@ -275,7 +329,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Manufacture of fruit and vegetable juice",
@@ -295,7 +357,27 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "FAH2",
+        "overrides": {
+          "Type of food and method of handling": 40
+        }
+      },
+      {
+        "answerCode": "PRO1",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Other processing and preserving of fruit and vegetables",
@@ -320,7 +402,21 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "PRO1",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Manufacture of oils and fats",
@@ -343,7 +439,21 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "PRO1",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Operation of dairies and cheese making",
@@ -365,7 +475,15 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Manufacture of ice cream",
@@ -385,7 +503,21 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "PRO2",
+        "overrides": {
+          "Method of processing": 0
+        }
+      }
+    ]
   },
   {
     "dataName": "Commercial bakery",
@@ -404,7 +536,21 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "FAH2",
+        "overrides": {
+          "Type of food and method of handling": 40
+        }
+      }
+    ]
   },
   {
     "dataName": "Manufacture of prepared meals and dishes",
@@ -423,7 +569,21 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "VG1",
+        "overrides": {
+          "Vulnerable group": 22
+        }
+      }
+    ]
   },
   {
     "dataName":
@@ -446,7 +606,15 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "VG1",
+        "overrides": {
+          "Vulnerable group": 22
+        }
+      }
+    ]
   },
   {
     "dataName": "Manufacture of other food products n.e.c.",
@@ -466,7 +634,15 @@
       "Method of processing": 20,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "VG1",
+        "overrides": {
+          "Vulnerable group": 22
+        }
+      }
+    ]
   },
   {
     "dataName": "Manufacture-Alcoholic drinks",
@@ -503,7 +679,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName":
@@ -529,7 +713,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Packer-Mineral waters",
@@ -540,7 +732,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Packer-Contract packers",
@@ -560,7 +760,21 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "FAH3",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Food delivery service-Deliver food to consumers",
@@ -583,7 +797,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH4",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Storage provider",
@@ -594,7 +816,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH5",
+        "overrides": {
+          "Type of food and method of handling": 40
+        }
+      }
+    ]
   },
   {
     "dataName": "Food broker",
@@ -625,7 +855,21 @@
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR3",
+        "overrides": {
+          "Consumers at risk": 15
+        }
+      },
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Cash and carry",
@@ -636,7 +880,15 @@
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Haulage company",
@@ -674,7 +926,15 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH7",
+        "overrides": {
+          "Type of food and method of handling": 30
+        }
+      }
+    ]
   },
   {
     "dataName": "Supermarket",
@@ -684,7 +944,6 @@
       "grocery",
       "market",
       "store",
-      "convenience",
       "shop",
       "retail",
       "store"
@@ -694,13 +953,32 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR4",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "FAH5",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "PRO3",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Convenience store/mini-market/corner shop",
     "displayName": "Local convenience store or corner shop",
     "searchTerms": [
-      "supermarket",
       "cornershop",
       "store",
       "grocery",
@@ -712,7 +990,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH7",
+        "overrides": {
+          "Type of food and method of handling": 30
+        }
+      }
+    ]
   },
   {
     "dataName": "Farm-Gate sales",
@@ -723,7 +1009,16 @@
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH8",
+        "overrides": {
+          "Type of food and method of handling": 40,
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Farm shop",
@@ -734,7 +1029,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH9",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      }
+    ]
   },
   {
     "dataName": "Confectionery/sweet shop",
@@ -753,7 +1062,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH9",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Butcher (retail only)",
@@ -772,7 +1089,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH10",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      },
+      {
+        "answerCode": "PRO5",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Fishmonger",
@@ -791,7 +1122,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH14",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      }
+    ]
   },
   {
     "dataName": "Greengrocer/fruiterer",
@@ -810,7 +1149,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH11",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "FAH7",
+        "overrides": {
+          "Type of food and method of handling": 30
+        }
+      }
+    ]
   },
   {
     "dataName": "Health food shop",
@@ -834,7 +1187,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH11",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Bakers shop (retail only)",
@@ -855,15 +1216,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Newsagent, post office",
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
-      "supermarket",
       "postoffice",
-      "convenience",
       "shop",
       "tobacconist",
       "newsstand",
@@ -876,7 +1243,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      }
+    ]
   },
   {
     "dataName": "Market stalls",
@@ -887,7 +1262,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH9",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "FAH7",
+        "overrides": {
+          "Type of food and method of handling": 30
+        }
+      }
+    ]
   },
   {
     "dataName": "Off licence",
@@ -907,17 +1296,29 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH9",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "FAH7",
+        "overrides": {
+          "Type of food and method of handling": 30
+        }
+      }
+    ]
   },
   {
     "dataName": "Petrol station/Garage",
     "displayName": "Petrol station or garage",
     "searchTerms": [
-      "supermarket",
       "retail",
       "gas",
       "store",
-      "convenience",
       "shop",
       "store"
     ],
@@ -926,7 +1327,27 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH9",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      },
+      {
+        "answerCode": "CAR5",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Delicatessen",
@@ -945,13 +1366,20 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "PRO3",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Chemist",
     "displayName": "Chemist",
     "searchTerms": [
-      "supermarket",
       "pharmacy",
       "retail",
       "apothecary",
@@ -963,19 +1391,24 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH9",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Retailers",
     "displayName": "Any other retailer",
     "searchTerms": [
-      "supermarket",
       "shop",
       "store",
       "grocery",
       "market",
-      "convenience",
-      "shop",
       "foodbank",
       "tea",
       "coffee",
@@ -1016,7 +1449,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR6",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Vending machine",
@@ -1033,7 +1474,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH12",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "FAH13",
+        "overrides": {
+          "Type of food and method of handling": 30
+        }
+      }
+    ]
   },
   {
     "dataName": "Restaurant/Cafe/Canteen/Fast food restaurant",
@@ -1112,7 +1567,33 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR5",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      },
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Hostel or B&B",
@@ -1136,7 +1617,34 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR7",
+        "overrides": {
+          "Type of food and method of handling": 10,
+          "Consumers at risk": 0
+        }
+      },
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      },
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Hotels",
@@ -1156,7 +1664,34 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR7",
+        "overrides": {
+          "Type of food and method of handling": 10,
+          "Consumers at risk": 0
+        }
+      },
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      },
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Pubs - Meals",
@@ -1196,7 +1731,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Pubs - snacks and drinks only",
@@ -1235,7 +1784,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH15",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      }
+    ]
   },
   {
     "dataName": "Take away-No food consumed on site",
@@ -1322,7 +1879,27 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR5",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Nursing, care homes, day centres",
@@ -1340,7 +1917,17 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 22
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR7",
+        "overrides": {
+          "Type of food and method of handling": 10,
+          "Consumers at risk": 0,
+          "Vulnerable group": 0
+        }
+      }
+    ]
   },
   {
     "dataName": "Hospitals",
@@ -1352,6 +1939,7 @@
       "health",
       "clinic",
       "infirmary",
+      "canteen",
       "hospice"
     ],
     "baseScores": {
@@ -1359,7 +1947,15 @@
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 22
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "PRO7",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Childminder",
@@ -1370,7 +1966,15 @@
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH16",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      }
+    ]
   },
   {
     "dataName":
@@ -1390,7 +1994,24 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 22
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR7",
+        "overrides": {
+          "Type of food and method of handling": 10,
+          "Consumers at risk": 0,
+          "Vulnerable group": 0
+        }
+      },
+      {
+        "answerCode": "FAH16",
+        "overrides": {
+          "Type of food and method of handling": 5,
+          "Vulnerable group": 0
+        }
+      }
+    ]
   },
   {
     "dataName": "Educational establishment (schools, colleges, university)",
@@ -1412,7 +2033,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR7",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "VG1",
+        "overrides": {
+          "Vulnerable group": 22
+        }
+      }
+    ]
   },
   {
     "dataName": "Mobile retailer",
@@ -1442,7 +2077,15 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      }
+    ]
   },
   {
     "dataName": "Mobile caterer",
@@ -1476,7 +2119,21 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Movable food establishment",
@@ -1501,7 +2158,27 @@
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH6",
+        "overrides": {
+          "Type of food and method of handling": 10
+        }
+      },
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Contract caterer",
@@ -1512,7 +2189,27 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "VG2",
+        "overrides": {
+          "Vulnerable group": 22
+        }
+      },
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      }
+    ]
   },
   {
     "dataName": "Home caterer",
@@ -1531,7 +2228,27 @@
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "PRO6",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "PRO8",
+        "overrides": {
+          "Method of processing": 20
+        }
+      },
+      {
+        "answerCode": "FAH17",
+        "overrides": {
+          "Type of food and method of handling": 5
+        }
+      }
+    ]
   },
   {
     "dataName": "Meat cutting plant/catering butcher",
@@ -1553,6 +2270,20 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "CAR1",
+        "overrides": {
+          "Consumers at risk": 10
+        }
+      },
+      {
+        "answerCode": "CAR2",
+        "overrides": {
+          "Consumers at risk": 1000
+        }
+      }
+    ]
   }
 ]
