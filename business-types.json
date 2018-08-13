@@ -995,7 +995,6 @@
       "grocery",
       "market",
       "store",
-      "convenience",
       "shop",
       "retail",
       "store"
@@ -1040,7 +1039,6 @@
   "Convenience store/mini-market/corner shop": {
     "displayName": "Local convenience store or corner shop",
     "searchTerms": [
-      "supermarket",
       "cornershop",
       "store",
       "grocery",
@@ -1319,9 +1317,7 @@
   "Newsagent, post office": {
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
-      "supermarket",
       "postoffice",
-      "convenience",
       "shop",
       "tobacconist",
       "newsstand",
@@ -1407,11 +1403,9 @@
   "Petrol station/Garage": {
     "displayName": "Petrol station or garage",
     "searchTerms": [
-      "supermarket",
       "retail",
       "gas",
       "store",
-      "convenience",
       "shop",
       "store"
     ],
@@ -1480,7 +1474,6 @@
   "Chemist": {
     "displayName": "Chemist",
     "searchTerms": [
-      "supermarket",
       "pharmacy",
       "retail",
       "apothecary",
@@ -1506,13 +1499,10 @@
   "Retailers": {
     "displayName": "Any other retailer",
     "searchTerms": [
-      "supermarket",
       "shop",
       "store",
       "grocery",
       "market",
-      "convenience",
-      "shop",
       "foodbank",
       "tea",
       "coffee",
