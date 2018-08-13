@@ -1,8 +1,8 @@
-{
-  "Farm-Fruit and vegetable grower": {
+[
+  {
+    "dataName": "Farm-Fruit and vegetable grower",
     "displayName": "Fruit and vegetable farm",
     "searchTerms": ["farmer", "grower", "agriculture", "orchard"],
-    "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -10,7 +10,8 @@
       "Vulnerable group": 0
     }
   },
-  "Farm-Livestock": {
+  {
+    "dataName": "Farm-Livestock",
     "displayName": "Livestock farm",
     "searchTerms": [
       "farmer",
@@ -23,7 +24,6 @@
       "sheep",
       "buffalo"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -31,10 +31,10 @@
       "Vulnerable group": 0
     }
   },
-  "Farm-Arable": {
+  {
+    "dataName": "Farm-Arable",
     "displayName": "Arable farm",
     "searchTerms": ["farmer", "crop", "agriculture"],
-    "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -42,10 +42,10 @@
       "Vulnerable group": 0
     }
   },
-  "Beekeeper": {
+  {
+    "dataName": "Beekeeper",
     "displayName": "Beekeeper",
     "searchTerms": ["honey", "farmer", "hive", "keeper", "apiarist"],
-    "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -53,17 +53,10 @@
       "Vulnerable group": 0
     }
   },
-  "Honey maker": {
+  {
+    "dataName": "Honey maker",
     "displayName": "Honey maker",
     "searchTerms": ["bee", "manufacturer", "honeymaker"],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A10",
-      "TYPE-A11",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -71,10 +64,10 @@
       "Vulnerable group": 0
     }
   },
-  "Hunting and trapping": {
+  {
+    "dataName": "Hunting and trapping",
     "displayName": "Hunting and trapping",
     "searchTerms": ["wildlife", "game", "wild", "fowl", "deer"],
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -82,10 +75,10 @@
       "Vulnerable group": 0
     }
   },
-  "Egg processor": {
+  {
+    "dataName": "Egg processor",
     "displayName": "Egg processor",
     "searchTerms": ["duck", "chicken", "quail"],
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 0,
@@ -93,10 +86,10 @@
       "Vulnerable group": 0
     }
   },
-  "Egg producer": {
+  {
+    "dataName": "Egg producer",
     "displayName": "Egg producer or packer",
     "searchTerms": ["duck", "quail", "chicken"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -104,7 +97,8 @@
       "Vulnerable group": 0
     }
   },
-  "Fishing vessel": {
+  {
+    "dataName": "Fishing vessel",
     "displayName": "Fishing boat",
     "searchTerms": [
       "fisherman",
@@ -124,7 +118,6 @@
       "trawler",
       "angling"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A13", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -132,7 +125,8 @@
       "Vulnerable group": 0
     }
   },
-  "Farmed fishing": {
+  {
+    "dataName": "Farmed fishing",
     "displayName": "Fish farm",
     "searchTerms": [
       "fisherman",
@@ -154,7 +148,6 @@
       "aquaculture",
       "mariculture"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A12"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -162,7 +155,8 @@
       "Vulnerable group": 0
     }
   },
-  "Processing and preserving of meat": {
+  {
+    "dataName": "Processing and preserving of meat",
     "displayName": "Meat product manufacturer",
     "searchTerms": [
       "processing",
@@ -185,7 +179,6 @@
       "maker",
       "producer"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -193,7 +186,8 @@
       "Vulnerable group": 0
     }
   },
-  "Abattoirs": {
+  {
+    "dataName": "Abattoirs",
     "displayName": "Abattoir",
     "searchTerms": [
       "slaughterhouse",
@@ -202,7 +196,6 @@
       "halal",
       "cutting"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A12"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -210,7 +203,8 @@
       "Vulnerable group": 0
     }
   },
-  "Processing and preserving of fish, crustaceans and molluscs": {
+  {
+    "dataName": "Processing and preserving of fish, crustaceans and molluscs",
     "displayName": "Fish and shellfish product manufacturer",
     "searchTerms": [
       "processing",
@@ -233,7 +227,6 @@
       "producer",
       "maker"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -241,7 +234,8 @@
       "Vulnerable group": 0
     }
   },
-  "Purification centres for shellfish": {
+  {
+    "dataName": "Purification centres for shellfish",
     "displayName": "Shellfish purification centre",
     "searchTerms": [
       "plant",
@@ -255,14 +249,6 @@
       "scallop",
       "depuration"
     ],
-    "answerIds": [
-      "TYPE-A0",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A13",
-      "TYPE-A3",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -270,7 +256,8 @@
       "Vulnerable group": 0
     }
   },
-  "Processing and preserving of potatoes": {
+  {
+    "dataName": "Processing and preserving of potatoes",
     "displayName": "Potato product manufacturer",
     "searchTerms": [
       "processing",
@@ -283,7 +270,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -291,7 +277,8 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture of fruit and vegetable juice": {
+  {
+    "dataName": "Manufacture of fruit and vegetable juice",
     "displayName": "Fruit and vegetable juice manufacturer",
     "searchTerms": [
       "drink",
@@ -303,17 +290,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": [
-      "TYPE-A0",
-      "TYPE-A10",
-      "TYPE-A11",
-      "TYPE-A2",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7"
-    ],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 20,
@@ -321,7 +297,8 @@
       "Vulnerable group": 0
     }
   },
-  "Other processing and preserving of fruit and vegetables": {
+  {
+    "dataName": "Other processing and preserving of fruit and vegetables",
     "displayName": "Fruit and vegetable product manufacturer",
     "searchTerms": [
       "processor",
@@ -338,7 +315,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -346,7 +322,8 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture of oils and fats": {
+  {
+    "dataName": "Manufacture of oils and fats",
     "displayName": "Oil and/or fat manufacturer",
     "searchTerms": [
       "lard",
@@ -361,7 +338,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": ["TYPE-A6", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -369,7 +345,8 @@
       "Vulnerable group": 0
     }
   },
-  "Operation of dairies and cheese making": {
+  {
+    "dataName": "Operation of dairies and cheese making",
     "displayName": "Dairies and cheese manufacturer",
     "searchTerms": [
       "yoghurt",
@@ -383,15 +360,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": [
-      "TYPE-A0",
-      "TYPE-A10",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5"
-    ],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -399,7 +367,8 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture of ice cream": {
+  {
+    "dataName": "Manufacture of ice cream",
     "displayName": "Ice cream manufacturer",
     "searchTerms": [
       "icecream",
@@ -411,16 +380,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": [
-      "TYPE-A0",
-      "TYPE-A10",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6"
-    ],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -428,7 +387,8 @@
       "Vulnerable group": 0
     }
   },
-  "Commercial bakery": {
+  {
+    "dataName": "Commercial bakery",
     "displayName": "Commercial bakery",
     "searchTerms": [
       "patisserie",
@@ -439,7 +399,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -447,7 +406,8 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture of prepared meals and dishes": {
+  {
+    "dataName": "Manufacture of prepared meals and dishes",
     "displayName": "Ready to eat meals or food manufacturer",
     "searchTerms": [
       "dish",
@@ -458,7 +418,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -466,7 +425,9 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture of homogenised food preparations and dietetic food": {
+  {
+    "dataName":
+      "Manufacture of homogenised food preparations and dietetic food",
     "displayName": "TBC - Nathan will decide",
     "searchTerms": [
       "homogenised",
@@ -480,7 +441,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A3", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -488,7 +448,8 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture of other food products n.e.c.": {
+  {
+    "dataName": "Manufacture of other food products n.e.c.",
     "displayName": "Manufacturer of other food products",
     "searchTerms": [
       "ice",
@@ -500,7 +461,6 @@
       "produce",
       "maker"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -508,7 +468,8 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture-Alcoholic drinks": {
+  {
+    "dataName": "Manufacture-Alcoholic drinks",
     "displayName": "Alcoholic drinks manufacturer",
     "searchTerms": [
       "brew",
@@ -537,7 +498,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": ["TYPE-A0", "TYPE-A3"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -545,7 +505,9 @@
       "Vulnerable group": 0
     }
   },
-  "Manufacture-Soft drinks, mineral waters and other bottled waters": {
+  {
+    "dataName":
+      "Manufacture-Soft drinks, mineral waters and other bottled waters",
     "displayName": "Non alcoholic drinks manufacturer",
     "searchTerms": [
       "soft",
@@ -562,7 +524,6 @@
       "maker",
       "produce"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -570,10 +531,10 @@
       "Vulnerable group": 0
     }
   },
-  "Packer-Mineral waters": {
+  {
+    "dataName": "Packer-Mineral waters",
     "displayName": "Mineral water packer",
     "searchTerms": ["sparkling", "carbonated", "bottle", "spring"],
-    "answerIds": ["TYPE-A0", "TYPE-A2"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -581,7 +542,8 @@
       "Vulnerable group": 0
     }
   },
-  "Packer-Contract packers": {
+  {
+    "dataName": "Packer-Contract packers",
     "displayName": "Contract packer",
     "searchTerms": [
       "cannery",
@@ -593,7 +555,6 @@
       "blending",
       "bottle"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 0,
@@ -601,10 +562,10 @@
       "Vulnerable group": 0
     }
   },
-  "Food delivery service-Deliver food to consumers": {
+  {
+    "dataName": "Food delivery service-Deliver food to consumers",
     "displayName": "Food delivery service",
     "searchTerms": ["meals on wheels", "order"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -612,10 +573,11 @@
       "Vulnerable group": 0
     }
   },
-  "Food delivery service-Process food order only for consumers, e.g. Just Eat": {
+  {
+    "dataName":
+      "Food delivery service-Process food order only for consumers, e.g. Just Eat",
     "displayName": "Food ordering service",
     "searchTerms": ["delivery", "process", "aggregator"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -623,10 +585,10 @@
       "Vulnerable group": 0
     }
   },
-  "Storage provider": {
+  {
+    "dataName": "Storage provider",
     "displayName": "Food storage facility",
     "searchTerms": ["cold", "warehouse", "coldstore", "unit", "refrigerated"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -634,7 +596,8 @@
       "Vulnerable group": 0
     }
   },
-  "Food broker": {
+  {
+    "dataName": "Food broker",
     "displayName": "Food broker",
     "searchTerms": [
       "agent",
@@ -646,7 +609,6 @@
       "selling",
       "buyer"
     ],
-    "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -654,10 +616,10 @@
       "Vulnerable group": 0
     }
   },
-  "Wholesaler": {
+  {
+    "dataName": "Wholesaler",
     "displayName": "Wholesaler",
     "searchTerms": ["supplier", "bulk", "produce", "trade", "grocer"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 0,
@@ -665,17 +627,10 @@
       "Vulnerable group": 0
     }
   },
-  "Cash and carry": {
+  {
+    "dataName": "Cash and carry",
     "displayName": "Cash and carry",
     "searchTerms": ["wholesale", "supplier", "membership", "warehouse", "bulk"],
-    "answerIds": [
-      "TYPE-A0",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A13",
-      "TYPE-A3",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -683,7 +638,8 @@
       "Vulnerable group": 0
     }
   },
-  "Haulage company": {
+  {
+    "dataName": "Haulage company",
     "displayName": "Haulage company",
     "searchTerms": [
       "shipping",
@@ -692,7 +648,6 @@
       "shipment",
       "logistics"
     ],
-    "answerIds": ["TYPE-A0"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -700,7 +655,8 @@
       "Vulnerable group": 0
     }
   },
-  "Internet only food": {
+  {
+    "dataName": "Internet only food",
     "displayName": "Online retailer",
     "searchTerms": [
       "internet",
@@ -713,14 +669,6 @@
       "shop",
       "website"
     ],
-    "answerIds": [
-      "TYPE-A0",
-      "TYPE-A10",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -728,7 +676,8 @@
       "Vulnerable group": 0
     }
   },
-  "Supermarket": {
+  {
+    "dataName": "Supermarket",
     "displayName": "Supermarket",
     "searchTerms": [
       "hypermarket",
@@ -740,16 +689,6 @@
       "retail",
       "store"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -757,7 +696,8 @@
       "Vulnerable group": 0
     }
   },
-  "Convenience store/mini-market/corner shop": {
+  {
+    "dataName": "Convenience store/mini-market/corner shop",
     "displayName": "Local convenience store or corner shop",
     "searchTerms": [
       "supermarket",
@@ -767,7 +707,6 @@
       "license",
       "retail"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -775,20 +714,10 @@
       "Vulnerable group": 0
     }
   },
-  "Farm-Gate sales": {
+  {
+    "dataName": "Farm-Gate sales",
     "displayName": "Farm gate sales",
     "searchTerms": ["eggs", "potatoes", "farmshop", "gatesale", "retail"],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -796,20 +725,10 @@
       "Vulnerable group": 0
     }
   },
-  "Farm shop": {
+  {
+    "dataName": "Farm shop",
     "displayName": "Farm shop",
     "searchTerms": ["retail", "farmshop"],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A11",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -817,7 +736,8 @@
       "Vulnerable group": 0
     }
   },
-  "Confectionery/sweet shop": {
+  {
+    "dataName": "Confectionery/sweet shop",
     "displayName": "Sweet shop or Confectioner",
     "searchTerms": [
       "confectionery",
@@ -828,7 +748,6 @@
       "bonbon",
       "retail"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -836,7 +755,8 @@
       "Vulnerable group": 0
     }
   },
-  "Butcher (retail only)": {
+  {
+    "dataName": "Butcher (retail only)",
     "displayName": "Butcher",
     "searchTerms": [
       "meat",
@@ -847,14 +767,6 @@
       "store",
       "shop"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -862,7 +774,8 @@
       "Vulnerable group": 0
     }
   },
-  "Fishmonger": {
+  {
+    "dataName": "Fishmonger",
     "displayName": "Fishmonger",
     "searchTerms": [
       "seafood",
@@ -873,7 +786,6 @@
       "shop",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A12", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -881,7 +793,8 @@
       "Vulnerable group": 0
     }
   },
-  "Greengrocer/fruiterer": {
+  {
+    "dataName": "Greengrocer/fruiterer",
     "displayName": "Greengrocer",
     "searchTerms": [
       "fruiterer",
@@ -892,7 +805,6 @@
       "retail",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -900,7 +812,8 @@
       "Vulnerable group": 0
     }
   },
-  "Health food shop": {
+  {
+    "dataName": "Health food shop",
     "displayName": "Health food shop",
     "searchTerms": [
       "retail",
@@ -916,7 +829,6 @@
       "dietary",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -924,7 +836,8 @@
       "Vulnerable group": 0
     }
   },
-  "Bakers shop (retail only)": {
+  {
+    "dataName": "Bakers shop (retail only)",
     "displayName": "Bakery",
     "searchTerms": [
       "pastry",
@@ -937,7 +850,6 @@
       "cookies",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A3", "TYPE-A4", "TYPE-A5", "TYPE-A6"],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -945,7 +857,8 @@
       "Vulnerable group": 0
     }
   },
-  "Newsagent, post office": {
+  {
+    "dataName": "Newsagent, post office",
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
       "supermarket",
@@ -958,7 +871,6 @@
       "corner",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -966,10 +878,10 @@
       "Vulnerable group": 0
     }
   },
-  "Market stalls": {
+  {
+    "dataName": "Market stalls",
     "displayName": "Market stalls with permanent pitch",
     "searchTerms": ["pop up", "popup", "bazar"],
-    "answerIds": ["TYPE-A1", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -977,7 +889,8 @@
       "Vulnerable group": 0
     }
   },
-  "Off licence": {
+  {
+    "dataName": "Off licence",
     "displayName": "Off licence",
     "searchTerms": [
       "tobacconist",
@@ -989,7 +902,6 @@
       "shop",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -997,7 +909,8 @@
       "Vulnerable group": 0
     }
   },
-  "Petrol station/Garage": {
+  {
+    "dataName": "Petrol station/Garage",
     "displayName": "Petrol station or garage",
     "searchTerms": [
       "supermarket",
@@ -1008,7 +921,6 @@
       "shop",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A9"],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1016,7 +928,8 @@
       "Vulnerable group": 0
     }
   },
-  "Delicatessen": {
+  {
+    "dataName": "Delicatessen",
     "displayName": "Delicatessen",
     "searchTerms": [
       "ham",
@@ -1027,14 +940,6 @@
       "shop",
       "store"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A9"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1042,7 +947,8 @@
       "Vulnerable group": 0
     }
   },
-  "Chemist": {
+  {
+    "dataName": "Chemist",
     "displayName": "Chemist",
     "searchTerms": [
       "supermarket",
@@ -1052,7 +958,6 @@
       "shop",
       "store"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1060,7 +965,8 @@
       "Vulnerable group": 0
     }
   },
-  "Retailers": {
+  {
+    "dataName": "Retailers",
     "displayName": "Any other retailer",
     "searchTerms": [
       "supermarket",
@@ -1105,7 +1011,6 @@
       "casino",
       "attraction"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1113,7 +1018,8 @@
       "Vulnerable group": 0
     }
   },
-  "Vending machine": {
+  {
+    "dataName": "Vending machine",
     "displayName": "Vending machine",
     "searchTerms": [
       "drinks",
@@ -1122,7 +1028,6 @@
       "prepacked",
       "water fountain"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1130,7 +1035,8 @@
       "Vulnerable group": 0
     }
   },
-  "Restaurant/Cafe/Canteen/Fast food restaurant": {
+  {
+    "dataName": "Restaurant/Cafe/Canteen/Fast food restaurant",
     "displayName": "Restaurant, cafe, canteen or fast food",
     "searchTerms": [
       "bistro",
@@ -1201,7 +1107,6 @@
       "casino",
       "attraction"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1209,7 +1114,8 @@
       "Vulnerable group": 0
     }
   },
-  "Hostel or B&B": {
+  {
+    "dataName": "Hostel or B&B",
     "displayName": "Hostel or bed and breakfast ",
     "searchTerms": [
       "B&B",
@@ -1225,15 +1131,6 @@
       "spa",
       "airbnb"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1241,7 +1138,8 @@
       "Vulnerable group": 0
     }
   },
-  "Hotels": {
+  {
+    "dataName": "Hotels",
     "displayName": "Hotel",
     "searchTerms": [
       "guesthouse",
@@ -1253,15 +1151,6 @@
       "spa",
       "airbnb"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A12",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1269,7 +1158,8 @@
       "Vulnerable group": 0
     }
   },
-  "Pubs - Meals": {
+  {
+    "dataName": "Pubs - Meals",
     "displayName": "Pub serving meals",
     "searchTerms": [
       "bar",
@@ -1301,15 +1191,6 @@
       "winebar",
       "brewery"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1317,7 +1198,8 @@
       "Vulnerable group": 0
     }
   },
-  "Pubs - snacks and drinks only": {
+  {
+    "dataName": "Pubs - snacks and drinks only",
     "displayName": "Pub serving only snacks and drinks",
     "searchTerms": [
       "bar",
@@ -1348,7 +1230,6 @@
       "brewery",
       "wet pub"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A5", "TYPE-A6", "TYPE-A7"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1356,7 +1237,8 @@
       "Vulnerable group": 0
     }
   },
-  "Take away-No food consumed on site": {
+  {
+    "dataName": "Take away-No food consumed on site",
     "displayName": "Take away with no food consumed on site",
     "searchTerms": [
       "takeaway",
@@ -1435,14 +1317,6 @@
       "casino",
       "attraction"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A11",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1450,7 +1324,8 @@
       "Vulnerable group": 0
     }
   },
-  "Nursing, care homes, day centres": {
+  {
+    "dataName": "Nursing, care homes, day centres",
     "displayName": "Nursing home, care home or day centre",
     "searchTerms": [
       "elderly",
@@ -1460,15 +1335,6 @@
       "aged",
       "retirement"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1476,7 +1342,8 @@
       "Vulnerable group": 22
     }
   },
-  "Hospitals": {
+  {
+    "dataName": "Hospitals",
     "displayName": "Hospital",
     "searchTerms": [
       "GP",
@@ -1487,15 +1354,6 @@
       "infirmary",
       "hospice"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1503,19 +1361,10 @@
       "Vulnerable group": 22
     }
   },
-  "Childminder": {
+  {
+    "dataName": "Childminder",
     "displayName": "Childminder",
     "searchTerms": ["minder", "babysitter", "nanny"],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A10",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -1523,7 +1372,9 @@
       "Vulnerable group": 0
     }
   },
-  "Childcare, Nursery; pre/after school care; play group etc-Meals": {
+  {
+    "dataName":
+      "Childcare, Nursery; pre/after school care; play group etc-Meals",
     "displayName": "Childcarer, nursery or play group",
     "searchTerms": [
       "care",
@@ -1534,15 +1385,6 @@
       "au pair",
       "breakfast club"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1550,7 +1392,8 @@
       "Vulnerable group": 22
     }
   },
-  "Educational establishment (schools, colleges, university)": {
+  {
+    "dataName": "Educational establishment (schools, colleges, university)",
     "displayName": "Educational establishment",
     "searchTerms": [
       "school",
@@ -1564,15 +1407,6 @@
       "preschool",
       "primary"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1580,7 +1414,8 @@
       "Vulnerable group": 0
     }
   },
-  "Mobile retailer": {
+  {
+    "dataName": "Mobile retailer",
     "displayName": "Mobile retailer",
     "searchTerms": [
       "movable",
@@ -1602,7 +1437,6 @@
       "street",
       "vendor"
     ],
-    "answerIds": ["TYPE-A1", "TYPE-A4", "TYPE-A8", "TYPE-A9", "TYPE-A12"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -1610,7 +1444,8 @@
       "Vulnerable group": 0
     }
   },
-  "Mobile caterer": {
+  {
+    "dataName": "Mobile caterer",
     "displayName": "Mobile caterer",
     "searchTerms": [
       "movable",
@@ -1636,15 +1471,6 @@
       "street",
       "vendor"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A8",
-      "TYPE-A10",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1652,7 +1478,8 @@
       "Vulnerable group": 0
     }
   },
-  "Movable food establishment": {
+  {
+    "dataName": "Movable food establishment",
     "displayName": "Movable food establishment",
     "searchTerms": [
       "train",
@@ -1669,16 +1496,6 @@
       "bus",
       "tram"
     ],
-    "answerIds": [
-      "TYPE-A1",
-      "TYPE-A3",
-      "TYPE-A4",
-      "TYPE-A5",
-      "TYPE-A6",
-      "TYPE-A7",
-      "TYPE-A8",
-      "TYPE-A12"
-    ],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1686,10 +1503,10 @@
       "Vulnerable group": 0
     }
   },
-  "Contract caterer": {
+  {
+    "dataName": "Contract caterer",
     "displayName": "Contract caterer",
     "searchTerms": ["wedding", "event", "party", "occasion", "function"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1697,7 +1514,8 @@
       "Vulnerable group": 0
     }
   },
-  "Home caterer": {
+  {
+    "dataName": "Home caterer",
     "displayName": "Home caterer",
     "searchTerms": [
       "baker",
@@ -1708,7 +1526,6 @@
       "cookie",
       "flat"
     ],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 50,
       "Method of processing": 0,
@@ -1716,10 +1533,10 @@
       "Vulnerable group": 0
     }
   },
-  "Meat cutting plant/catering butcher": {
+  {
+    "dataName": "Meat cutting plant/catering butcher",
     "displayName": "Meat cutting plant or commercial butcher",
     "searchTerms": ["halal", "butchery"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1727,10 +1544,10 @@
       "Vulnerable group": 0
     }
   },
-  "Auction hall (fish)": {
+  {
+    "dataName": "Auction hall (fish)",
     "displayName": "Food auction hall",
     "searchTerms": ["auctioneer", "bidding"],
-    "answerIds": [],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1738,4 +1555,4 @@
       "Vulnerable group": 0
     }
   }
-}
+]
