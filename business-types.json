@@ -354,7 +354,7 @@
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
-      "Method of processing": 20,
+      "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
     },
@@ -876,7 +876,7 @@
     "displayName": "Cash and carry",
     "searchTerms": ["wholesale", "supplier", "membership", "warehouse", "bulk"],
     "baseScores": {
-      "Type of food and method of handling": 10,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
       "Consumers at risk": 10,
       "Vulnerable group": 0
@@ -1613,9 +1613,9 @@
       "airbnb"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
+      "Type of food and method of handling": 10,
       "Method of processing": 0,
-      "Consumers at risk": 5,
+      "Consumers at risk": 0,
       "Vulnerable group": 0
     },
     "supplementaryScores": [
@@ -1922,7 +1922,7 @@
       {
         "answerCode": "CAR7",
         "overrides": {
-          "Type of food and method of handling": 10,
+          
           "Consumers at risk": 0,
           "Vulnerable group": 0
         }
@@ -1990,7 +1990,7 @@
       "breakfast club"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
+      
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 22
@@ -2038,7 +2038,8 @@
       {
         "answerCode": "CAR7",
         "overrides": {
-          "Type of food and method of handling": 10
+          "Type of food and method of handling": 10,
+          "Consumers at risk": 5
         }
       },
       {
@@ -2224,7 +2225,7 @@
       "flat"
     ],
     "baseScores": {
-      "Type of food and method of handling": 50,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
@@ -2259,19 +2260,7 @@
       "Method of processing": 0,
       "Consumers at risk": 15,
       "Vulnerable group": 0
-    }
-  },
-  {
-    "dataName": "Auction hall (fish)",
-    "displayName": "Food auction hall",
-    "searchTerms": ["auctioneer", "bidding"],
-    "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
-    },
-    "supplementaryScores": [
+    }, "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
@@ -2283,6 +2272,20 @@
         "overrides": {
           "Consumers at risk": 1000
         }
+      }
+     ]
+  },
+  {
+    "dataName": "Auction hall (fish)",
+    "displayName": "Food auction hall",
+    "searchTerms": ["auctioneer", "bidding"],
+    "baseScores": {
+      "Type of food and method of handling": 30,
+      "Method of processing": 0,
+      "Consumers at risk": 15,
+      "Vulnerable group": 0
+    },
+   
       }
     ]
   }
