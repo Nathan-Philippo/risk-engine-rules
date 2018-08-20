@@ -122,7 +122,7 @@
       {
         "answerCode": "CAR8",
         "overrides": {
-          "Consumers at risk": 5
+          "Consumers at risk": 1000
         }
       }
     ]
@@ -183,7 +183,15 @@
       "Method of processing": 0,
       "Consumers at risk": 0,
       "Vulnerable group": 0
-    }
+    },
+    "supplementaryScores": [
+      {
+        "answerCode": "FAH?",
+        "overrides": {
+          "Type of food and method of handling": 1000
+        }
+      }
+    ]
   },
   {
     "dataName": "Processing and preserving of meat",
@@ -810,7 +818,14 @@
   {
     "dataName": "Storage provider",
     "displayName": "Food storage facility",
-    "searchTerms": ["cold", "warehouse", "coldstore", "unit", "refrigerated"],
+    "searchTerms": [
+      "cold",
+      "warehouse",
+      "coldstore",
+      "unit",
+      "refrigerated",
+      "distributer"
+    ],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -849,7 +864,14 @@
   {
     "dataName": "Wholesaler",
     "displayName": "Wholesaler",
-    "searchTerms": ["supplier", "bulk", "produce", "trade", "grocer"],
+    "searchTerms": [
+      "supplier",
+      "bulk",
+      "produce",
+      "trade",
+      "grocer",
+      "distributer"
+    ],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 0,
@@ -898,7 +920,8 @@
       "transport",
       "freightage",
       "shipment",
-      "logistics"
+      "logistics",
+      "distributer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -978,13 +1001,7 @@
   {
     "dataName": "Convenience store/mini-market/corner shop",
     "displayName": "Local convenience store or corner shop",
-    "searchTerms": [
-      "cornershop",
-      "store",
-      "grocery",
-      "license",
-      "retail"
-    ],
+    "searchTerms": ["cornershop", "store", "grocery", "license", "retail"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -1003,7 +1020,15 @@
   {
     "dataName": "Farm-Gate sales",
     "displayName": "Farm gate sales",
-    "searchTerms": ["eggs", "potatoes", "farmshop", "gatesale", "retail"],
+    "searchTerms": [
+      "eggs",
+      "potatoes",
+      "farmshop",
+      "gatesale",
+      "retail",
+      "milk",
+      "raw"
+    ],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1315,13 +1340,7 @@
   {
     "dataName": "Petrol station/Garage",
     "displayName": "Petrol station or garage",
-    "searchTerms": [
-      "retail",
-      "gas",
-      "store",
-      "shop",
-      "store"
-    ],
+    "searchTerms": ["retail", "gas", "store", "shop", "store"],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1379,13 +1398,7 @@
   {
     "dataName": "Chemist",
     "displayName": "Chemist",
-    "searchTerms": [
-      "pharmacy",
-      "retail",
-      "apothecary",
-      "shop",
-      "store"
-    ],
+    "searchTerms": ["pharmacy", "retail", "apothecary", "shop", "store"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1430,7 +1443,7 @@
       "theatre",
       "cinema",
       "stadium",
-      "cirkus",
+      "circus",
       "concert",
       "music",
       "bingo",
@@ -1548,7 +1561,7 @@
       "theatre",
       "cinema",
       "stadium",
-      "cirkus",
+      "circus",
       "concert",
       "music",
       "bingo",
@@ -1620,28 +1633,16 @@
     },
     "supplementaryScores": [
       {
-        "answerCode": "CAR7",
+        "answerCode": "CAR9",
         "overrides": {
-          "Type of food and method of handling": 10,
-          "Consumers at risk": 0
+          "Type of food and method of handling": 30,
+          "Consumers at risk": 5
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
           "Type of food and method of handling": 5
-        }
-      },
-      {
-        "answerCode": "PRO6",
-        "overrides": {
-          "Method of processing": 20
-        }
-      },
-      {
-        "answerCode": "PRO8",
-        "overrides": {
-          "Method of processing": 20
         }
       }
     ]
@@ -1708,7 +1709,6 @@
       "nightclub",
       "club",
       "stadium",
-      "cirkus",
       "concert",
       "music",
       "bartending",
@@ -1719,7 +1719,6 @@
       "racetrack",
       "bowling",
       "park",
-      "amusement",
       "fairground",
       "casino",
       "attraction",
@@ -1760,7 +1759,7 @@
       "nightclub",
       "club",
       "stadium",
-      "cirkus",
+      "circus",
       "concert",
       "music",
       "bartending",
@@ -1811,7 +1810,6 @@
       "dinner",
       "diner",
       "Buffet",
-      "cafe",
       "canteen",
       "fast food",
       "coffee",
@@ -1860,7 +1858,7 @@
       "theatre",
       "cinema",
       "stadium",
-      "cirkus",
+      "circus",
       "concert",
       "music",
       "bingo",
@@ -1969,7 +1967,7 @@
     },
     "supplementaryScores": [
       {
-        "answerCode": "FAH16",
+        "answerCode": "VG3",
         "overrides": {
           "Type of food and method of handling": 5
         }
@@ -2005,7 +2003,7 @@
         }
       },
       {
-        "answerCode": "FAH16",
+        "answerCode": "VG3",
         "overrides": {
           "Type of food and method of handling": 5,
           "Vulnerable group": 0
