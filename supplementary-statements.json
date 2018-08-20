@@ -1,7 +1,7 @@
 [
   {
     "id": "CAR1",
-    "wording": "Only distribute or sell food locally"
+    "wording": "Distribute or sell food locally"
   },
   {
     "id": "CAR2",
@@ -49,7 +49,7 @@
   {
     "id": "FAH3",
     "wording":
-      "Only pack low risk food. Such as drinks, crisps or other shelf stable items."
+      "Pack only low risk food. Such as drinks, crisps or other shelf stable items."
   },
   {
     "id": "FAH4",
@@ -63,7 +63,7 @@
   {
     "id": "FAH6",
     "wording":
-      "Only sell low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks."
+      "Sell only low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks."
   },
   {
     "id": "FAH7",
@@ -82,7 +82,7 @@
   {
     "id": "FAH10",
     "wording":
-      "Only sell food that can be stored in room temperature and raw meat"
+      "Sell only food that can be stored in room temperature and raw meat"
   },
   {
     "id": "FAH11",
@@ -101,17 +101,17 @@
   {
     "id": "FAH14",
     "wording":
-      "Only sell food that can be stored in room temperature and raw fish"
+      "Sell only food that can be stored in room temperature and raw fish"
   },
   {
     "id": "FAH15",
     "wording":
-      "Prepare high risk food, such as sandwiches, meat or soup, but only serve less than 20 people a day"
+      "Prepare high risk food, such as sandwiches, meat or soup, but serve less than 20 people a day"
   },
   {
     "id": "FAH17",
     "wording":
-      "Only make low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
+      "Make only low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
   },
   {
     "id": "PRO1",
@@ -119,7 +119,7 @@
   },
   {
     "id": "PRO2",
-    "wording": "Only use pasteurised milk or milk powder"
+    "wording": "Use only pasteurised milk or milk powder"
   },
   {
     "id": "PRO3",
@@ -140,7 +140,7 @@
   },
   {
     "id": "PRO7",
-    "wording": "Only operate a cook chill operation"
+    "wording": "Operate a cook chill operation"
   },
   {
     "id": "PRO8",
@@ -159,6 +159,6 @@
   {
     "id": "VG3",
     "wording":
-      "Only provide drinks and low risk snacks. For example fruit or crisps"
+      "Provide only drinks and low risk snacks. For example fruit or crisps"
   }
 ]
