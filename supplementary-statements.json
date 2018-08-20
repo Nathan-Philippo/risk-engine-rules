@@ -109,11 +109,6 @@
       "Prepare high risk food, such as sandwiches, meat or soup, but only serve less than 20 people a day"
   },
   {
-    "id": "FAH16",
-    "wording":
-      "Only provide drinks and low risk snacks. For example fruit or crisps"
-  },
-  {
     "id": "FAH17",
     "wording":
       "Only make low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
@@ -160,5 +155,10 @@
     "id": "VG2",
     "wording":
       "Serve food to vulnerable groups larger than 20 people. For example sick or elderly."
+  },
+  {
+    "id": "VG3",
+    "wording":
+      "Only provide drinks and low risk snacks. For example fruit or crisps"
   }
 ]
