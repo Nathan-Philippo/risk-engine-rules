@@ -596,7 +596,7 @@
   {
     "dataName":
       "Manufacture of homogenised food preparations and dietetic food",
-    "displayName": "TBC - git pu will decide",
+    "displayName": "TBC - Nathan will decide",
     "searchTerms": [
       "homogenised",
       "dietic",
@@ -2222,7 +2222,7 @@
       "flat"
     ],
     "baseScores": {
-      "Type of food and method of handling": 50,
+      "Type of food and method of handling": 30,
       "Method of processing": 0,
       "Consumers at risk": 5,
       "Vulnerable group": 0
