@@ -596,14 +596,21 @@
   {
     "dataName":
       "Manufacture of homogenised food preparations and dietetic food",
-    "displayName": "TBC - Nathan will decide",
+    "displayName": "Dietic or baby food manufacturer",
     "searchTerms": [
-      "homogenised",
+      "homogenise",
       "dietic",
+      "formula",
+      "protein",
+      "powder",
+      "gluten",
+      "celiac",
+      "lactose",
+      "infant",
+      "supplement",
       "nutrition",
       "medical",
       "manufacturer",
-      "diet",
       "health",
       "weaning",
       "maker",
@@ -1196,7 +1203,6 @@
     "searchTerms": [
       "retail",
       "vitamins",
-      "supplements",
       "organic",
       "freefrom",
       "natural",
@@ -1204,7 +1210,6 @@
       "goodness",
       "wellness",
       "nutrition",
-      "dietary",
       "store"
     ],
     "baseScores": {
@@ -1523,6 +1528,7 @@
       "hamburger",
       "burger",
       "kebab",
+      "pizza",
       "lunch",
       "pizzeria",
       "playground",
@@ -1798,6 +1804,7 @@
     "displayName": "Take away with no food consumed on site",
     "searchTerms": [
       "takeaway",
+      "delivery",
       "to go",
       "kiosk",
       "drive through",
@@ -1820,6 +1827,7 @@
       "hamburger",
       "burger",
       "kebab",
+      "pizza",
       "lunch",
       "pizzeria",
       "playground",
