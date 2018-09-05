@@ -214,8 +214,8 @@
       "dry",
       "mince",
       "ham",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -263,8 +263,8 @@
       "airdry",
       "brine",
       "pickle",
-      "produce",
-      "make"
+      "producer",
+      "maker"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -322,8 +322,8 @@
       "canning",
       "freezing",
       "mash",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -350,8 +350,8 @@
       "smoothie",
       "bottling",
       "blending",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -394,8 +394,8 @@
       "salt",
       "canning",
       "peanut butter",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -432,7 +432,7 @@
       "olive",
       "sunflower",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -467,8 +467,8 @@
       "cheddar",
       "milk",
       "whey",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -495,8 +495,8 @@
       "frozen",
       "gelato",
       "yoghurt",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -528,8 +528,8 @@
       "manufacture",
       "cake",
       "bread",
-      "make",
-      "produce"
+      "maker",
+      "r"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -561,8 +561,8 @@
       "factory",
       "microwave",
       "frozen",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -604,7 +604,7 @@
       "health",
       "weaning",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -624,7 +624,7 @@
   {
     "dataName": "Manufacture of other food products n.e.c.",
     "displayName": "Manufacturer of other food products",
-    "searchTerms": ["ice", "mill", "process", "factory", "make", "produce"],
+    "searchTerms": ["ice", "mill", "process", "factory", "maker", "producer"],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -667,8 +667,8 @@
       "vodka",
       "rum",
       "craft",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -695,13 +695,13 @@
       "factory",
       "sparkling",
       "mineral",
-      "carbonate",
+      "carbonated",
       "bottle",
       "lemonade",
       "spring",
       "energy",
-      "make",
-      "produce"
+      "maker",
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -851,7 +851,7 @@
     "searchTerms": [
       "supplier",
       "bulk",
-      "produce",
+      "producer",
       "trade",
       "grocer",
       "distribute"
