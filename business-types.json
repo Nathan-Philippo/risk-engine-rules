@@ -137,9 +137,9 @@
       "seafood",
       "shellfish",
       "oyster",
-      "mussels",
-      "clams",
-      "prawns",
+      "mussel",
+      "clam",
+      "prawn",
       "lobster",
       "crab",
       "shrimp",
@@ -164,9 +164,9 @@
       "seafood",
       "shellfish",
       "oyster",
-      "mussels",
-      "clams",
-      "prawns",
+      "mussel",
+      "clam",
+      "prawn",
       "lobster",
       "crab",
       "shrimp",
@@ -197,12 +197,12 @@
     "dataName": "Processing and preserving of meat",
     "displayName": "Meat product manufacturer",
     "searchTerms": [
-      "processing",
-      "preserving",
-      "airdrying",
-      "salting",
+      "process",
+      "preserve",
+      "airdry",
+      "salt",
       "jerky",
-      "curing",
+      "cure",
       "beef",
       "pork",
       "mutton",
@@ -210,9 +210,9 @@
       "chicken",
       "insect",
       "biltong",
-      "smoking",
-      "drying",
-      "mincing",
+      "smoke",
+      "dry",
+      "mince",
       "ham",
       "maker",
       "producer"
@@ -235,13 +235,7 @@
   {
     "dataName": "Abattoirs",
     "displayName": "Abattoir",
-    "searchTerms": [
-      "slaughterhouse",
-      "slaughter",
-      "butcher",
-      "halal",
-      "cutting"
-    ],
+    "searchTerms": ["slaughterhouse", "slaughter", "butcher", "halal", "cut"],
     "baseScores": {
       "Type of food and method of handling": 0,
       "Method of processing": 0,
@@ -253,8 +247,8 @@
     "dataName": "Processing and preserving of fish, crustaceans and molluscs",
     "displayName": "Fish and shellfish product manufacturer",
     "searchTerms": [
-      "processing",
-      "preserving",
+      "process",
+      "preserve",
       "crustecean",
       "crab",
       "lobster",
@@ -263,13 +257,12 @@
       "mussel",
       "scallop",
       "clam",
-      "smoking",
-      "salting",
-      "smoked",
-      "drying",
-      "airdrying",
-      "brining",
-      "pickling",
+      "smoke",
+      "salt",
+      "dry",
+      "airdry",
+      "brine",
+      "pickle",
       "producer",
       "maker"
     ],
@@ -294,9 +287,9 @@
     "searchTerms": [
       "plant",
       "oyster",
-      "mussels",
-      "clams",
-      "prawns",
+      "mussel",
+      "clam",
+      "prawn",
       "lobster",
       "crab",
       "shrimp",
@@ -322,15 +315,15 @@
     "dataName": "Processing and preserving of potatoes",
     "displayName": "Potato product manufacturer",
     "searchTerms": [
-      "processing",
-      "preserving",
+      "process",
+      "preserve",
       "chip",
       "crisp",
       "canning",
       "freezing",
       "mash",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -358,7 +351,7 @@
       "bottling",
       "blending",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -391,19 +384,18 @@
     "dataName": "Other processing and preserving of fruit and vegetables",
     "displayName": "Fruit and vegetable product manufacturer",
     "searchTerms": [
-      "processor",
-      "processing",
+      "process",
       "factory",
-      "preserving",
-      "drying",
-      "pickling",
+      "preserve",
+      "dry",
+      "pickle",
       "jam",
-      "freezing",
-      "salting",
+      "freeze",
+      "salt",
       "canning",
       "peanut butter",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -440,7 +432,7 @@
       "olive",
       "sunflower",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -468,7 +460,7 @@
     "displayName": "Dairies and cheese manufacturer",
     "searchTerms": [
       "yoghurt",
-      "processing",
+      "process",
       "factory",
       "fromage",
       "cream",
@@ -476,7 +468,7 @@
       "milk",
       "whey",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -498,13 +490,13 @@
     "displayName": "Ice cream manufacturer",
     "searchTerms": [
       "icecream",
-      "processing",
+      "process",
       "factory",
       "frozen",
       "gelato",
       "yoghurt",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -533,11 +525,11 @@
     "searchTerms": [
       "patisserie",
       "pastry",
-      "manufacturer",
+      "manufacture",
       "cake",
       "bread",
       "maker",
-      "produce"
+      "r"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -570,7 +562,7 @@
       "microwave",
       "frozen",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -594,8 +586,7 @@
     ]
   },
   {
-    "dataName":
-      "Manufacture of homogenised food preparations and dietetic food",
+    "dataName": "Manufacture of homogenised food preparations and dietetic food",
     "displayName": "Dietic or baby food manufacturer",
     "searchTerms": [
       "homogenise",
@@ -610,11 +601,10 @@
       "supplement",
       "nutrition",
       "medical",
-      "manufacturer",
       "health",
       "weaning",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -634,16 +624,7 @@
   {
     "dataName": "Manufacture of other food products n.e.c.",
     "displayName": "Manufacturer of other food products",
-    "searchTerms": [
-      "ice",
-      "mill",
-      "processor",
-      "processing",
-      "factory",
-      "make",
-      "produce",
-      "maker"
-    ],
+    "searchTerms": ["ice", "mill", "process", "factory", "maker", "producer"],
     "baseScores": {
       "Type of food and method of handling": 40,
       "Method of processing": 20,
@@ -687,7 +668,7 @@
       "rum",
       "craft",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -705,8 +686,7 @@
     ]
   },
   {
-    "dataName":
-      "Manufacture-Soft drinks, mineral waters and other bottled waters",
+    "dataName": "Manufacture-Soft drinks, mineral waters and other bottled waters",
     "displayName": "Non alcoholic drinks manufacturer",
     "searchTerms": [
       "soft",
@@ -721,7 +701,7 @@
       "spring",
       "energy",
       "maker",
-      "produce"
+      "producer"
     ],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -803,8 +783,7 @@
     }
   },
   {
-    "dataName":
-      "Food delivery service-Process food order only for consumers, e.g. Just Eat",
+    "dataName": "Food delivery service-Process food order only for consumers, e.g. Just Eat",
     "displayName": "Food ordering service",
     "searchTerms": ["delivery", "process", "aggregator"],
     "baseScores": {
@@ -857,8 +836,6 @@
       "intermediator",
       "mediator",
       "consultant",
-      "buying",
-      "selling",
       "buyer"
     ],
     "baseScores": {
@@ -874,10 +851,10 @@
     "searchTerms": [
       "supplier",
       "bulk",
-      "produce",
+      "producer",
       "trade",
       "grocer",
-      "distributer"
+      "distribute"
     ],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -975,8 +952,7 @@
       "market",
       "store",
       "shop",
-      "retail",
-      "store"
+      "retail"
     ],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -1008,7 +984,7 @@
   {
     "dataName": "Convenience store/mini-market/corner shop",
     "displayName": "Local convenience store or corner shop",
-    "searchTerms": ["cornershop", "store", "grocery", "license", "retail"],
+    "searchTerms": ["cornershop", "store", "grocery", "retail"],
     "baseScores": {
       "Type of food and method of handling": 10,
       "Method of processing": 0,
@@ -1027,15 +1003,7 @@
   {
     "dataName": "Farm-Gate sales",
     "displayName": "Farm gate sales",
-    "searchTerms": [
-      "eggs",
-      "potatoes",
-      "farmshop",
-      "gatesale",
-      "retail",
-      "milk",
-      "raw"
-    ],
+    "searchTerms": ["eggs", "potatoes", "gatesale", "retail", "milk", "raw"],
     "baseScores": {
       "Type of food and method of handling": 5,
       "Method of processing": 0,
@@ -1081,7 +1049,6 @@
     "dataName": "Confectionery/sweet shop",
     "displayName": "Sweet shop or Confectioner",
     "searchTerms": [
-      "confectionery",
       "candy",
       "dessert",
       "chocolatier",
@@ -1107,15 +1074,7 @@
   {
     "dataName": "Butcher (retail only)",
     "displayName": "Butcher",
-    "searchTerms": [
-      "meat",
-      "halal",
-      "retail",
-      "consumer",
-      "cutting",
-      "store",
-      "shop"
-    ],
+    "searchTerms": ["meat", "halal", "retail", "cutting", "store", "shop"],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
@@ -1238,7 +1197,7 @@
       "retail",
       "bread",
       "cake",
-      "cookies",
+      "cookie",
       "store"
     ],
     "baseScores": {
@@ -1260,7 +1219,6 @@
     "dataName": "Newsagent, post office",
     "displayName": "Newsagent or Post Office",
     "searchTerms": [
-      "postoffice",
       "shop",
       "tobacconist",
       "newsstand",
@@ -1428,8 +1386,6 @@
       "grocery",
       "market",
       "foodbank",
-      "tea",
-      "coffee",
       "playground",
       "softplay",
       "museum",
@@ -1536,7 +1492,7 @@
       "softplay",
       "sushi",
       "tea",
-      "juice bar",
+      "juice",
       "museum",
       "zoo",
       "aquarium",
@@ -1620,12 +1576,10 @@
     "searchTerms": [
       "B&B",
       "&",
-      "B & B",
       "B and B",
       "guesthouse",
       "inn",
       "motel",
-      "resort",
       "accomodation",
       "retreat",
       "spa",
@@ -1659,7 +1613,6 @@
     "searchTerms": [
       "guesthouse",
       "inn",
-      "motel",
       "resort",
       "accomodation",
       "retreat",
@@ -1983,8 +1936,7 @@
     ]
   },
   {
-    "dataName":
-      "Childcare, Nursery; pre/after school care; play group etc-Meals",
+    "dataName": "Childcare, Nursery; pre/after school care; play group etc-Meals",
     "displayName": "Childcarer, nursery or play group",
     "searchTerms": [
       "care",
@@ -2063,15 +2015,14 @@
       "market",
       "bazar",
       "foodtruck",
-      "food truck",
-      "food van",
+      "truck",
       "pop up",
       "popup",
       "vehicle",
       "stall",
       "car",
       "bike",
-      "ice cream van",
+      "ice cream",
       "van",
       "festival",
       "retail",
@@ -2101,21 +2052,21 @@
       "market",
       "bazar",
       "foodtruck",
-      "food truck",
+      "truck",
       "pop up",
       "popup",
       "vehicle",
       "stall",
       "car",
       "bike",
-      "ice cream van",
+      "ice cream",
       "van",
       "festival",
       "event",
       "party",
       "function",
-      "burger van",
-      "food van",
+      "burger",
+      "food",
       "hot dog stand",
       "street",
       "vendor"
@@ -2189,7 +2140,7 @@
   {
     "dataName": "Contract caterer",
     "displayName": "Contract caterer",
-    "searchTerms": ["wedding", "event", "party", "occasion", "function"],
+    "searchTerms": ["office", "lunch"],
     "baseScores": {
       "Type of food and method of handling": 30,
       "Method of processing": 0,
