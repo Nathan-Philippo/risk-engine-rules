@@ -2,6 +2,7 @@
   {
     "dataName": "Farm-Fruit and vegetable grower",
     "displayName": "Fruit and vegetable farm",
+    "description": "Fruit and vegetable farms grow and distribute fruit or vegetables",
     "searchTerms": ["farmer", "grower", "agriculture", "orchard"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -13,6 +14,7 @@
   {
     "dataName": "Farm-Livestock",
     "displayName": "Livestock farm",
+    "description": "Livestock farms raise animals and sell them at auction or take them to abattoirs",
     "searchTerms": [
       "farmer",
       "cow",
@@ -34,6 +36,7 @@
   {
     "dataName": "Farm-Arable",
     "displayName": "Arable farm",
+    "description": "Arable farms grow and harvest crops. For example wheat, corn or barley.",
     "searchTerms": ["farmer", "crop", "agriculture"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -45,6 +48,7 @@
   {
     "dataName": "Beekeeper",
     "displayName": "Beekeeper",
+    "description": "Beekeepers keep bees in hives and extract honey from them",
     "searchTerms": ["honey", "farmer", "hive", "keeper", "apiarist"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -56,6 +60,7 @@
   {
     "dataName": "Honey maker",
     "displayName": "Honey maker",
+    "description": "Honey makers extract and package honey for national retail",
     "searchTerms": ["bee", "manufacturer", "honeymaker"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -75,6 +80,7 @@
   {
     "dataName": "Hunting and trapping",
     "displayName": "Hunting and trapping",
+    "description": "Hunters and trappers hunt and trap wild animals for food",
     "searchTerms": ["wildlife", "game", "wild", "fowl", "deer"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -86,6 +92,7 @@
   {
     "dataName": "Egg processor",
     "displayName": "Egg processor",
+    "description": "Egg processors manufacture or process egg products and distributes them nationally",
     "searchTerms": ["duck", "chicken", "quail"],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -111,6 +118,7 @@
   {
     "dataName": "Egg producer",
     "displayName": "Egg producer or packer",
+    "description": "Egg producers or packers have birds for egg laying and distributes eggs locally",
     "searchTerms": ["duck", "quail", "chicken"],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -130,6 +138,7 @@
   {
     "dataName": "Fishing vessel",
     "displayName": "Fishing boat",
+    "description": "Fishing boats fish and catch seafood for food",
     "searchTerms": [
       "fisherman",
       "vessel",
@@ -158,6 +167,7 @@
   {
     "dataName": "Farmed fishing",
     "displayName": "Fish farm",
+    "description": "Fish farms raise fish and other species in water for food",
     "searchTerms": [
       "fisherman",
       "fishfarm",
@@ -196,6 +206,7 @@
   {
     "dataName": "Processing and preserving of meat",
     "displayName": "Meat product manufacturer",
+    "description": "Meat product manufacturers process meat, for example make sausages or freeze meat, and supply it to other businesses.",
     "searchTerms": [
       "process",
       "preserve",
@@ -235,6 +246,7 @@
   {
     "dataName": "Abattoirs",
     "displayName": "Abattoir",
+    "description": "Contact your local council for approval",
     "searchTerms": ["slaughterhouse", "slaughter", "butcher", "halal", "cut"],
     "baseScores": {
       "Type of food and method of handling": 0,
@@ -246,6 +258,7 @@
   {
     "dataName": "Processing and preserving of fish, crustaceans and molluscs",
     "displayName": "Fish and shellfish product manufacturer",
+    "description": "Fish and shellfish product manufacturers process seafood, for example freeze it or make fishfingers, and supply it to other businesses.",
     "searchTerms": [
       "process",
       "preserve",
@@ -284,6 +297,7 @@
   {
     "dataName": "Purification centres for shellfish",
     "displayName": "Shellfish purification centre",
+    "description": "Shellfish purification centres treat seafood to remove impurites and contaminates",
     "searchTerms": [
       "plant",
       "oyster",
@@ -314,6 +328,7 @@
   {
     "dataName": "Processing and preserving of potatoes",
     "displayName": "Potato product manufacturer",
+    "description": "Potato product manufacturers process poatatoes, for example cuts and freeze it or make crisps, and supply it to other businesses.",
     "searchTerms": [
       "process",
       "preserve",
@@ -343,6 +358,7 @@
   {
     "dataName": "Manufacture of fruit and vegetable juice",
     "displayName": "Fruit and vegetable juice manufacturer",
+    "description": "Fruit and vegetable juice manufacturers make drinks from fruit and vegetable, for example juice or smoothies, and supply it to other businesses.",
     "searchTerms": [
       "drink",
       "factory",
@@ -383,6 +399,7 @@
   {
     "dataName": "Other processing and preserving of fruit and vegetables",
     "displayName": "Fruit and vegetable product manufacturer",
+    "description": "Fruit and vegetable product manufacturers process fruit or vegetables, for example tinned fruit, bags of salad leafs or make vegan products, and supply it to other businesses.",
     "searchTerms": [
       "process",
       "factory",
@@ -421,6 +438,7 @@
   {
     "dataName": "Manufacture of oils and fats",
     "displayName": "Oil and/or fat manufacturer",
+    "description": "Oil and/or fat manufacturers process vegetable oil or animal fat to produce products, for example olive oil or lard, and supply it to other businesses.",
     "searchTerms": [
       "lard",
       "butter",
@@ -458,6 +476,7 @@
   {
     "dataName": "Operation of dairies and cheese making",
     "displayName": "Dairies and cheese manufacturer",
+    "description": "Dairy or cheese manufacturers make for example yoghurt or cheddar and  supply it to other businesses.",
     "searchTerms": [
       "yoghurt",
       "process",
@@ -488,6 +507,7 @@
   {
     "dataName": "Manufacture of ice cream",
     "displayName": "Ice cream manufacturer",
+    "description": "Ice cream manufacturers make for example ice cream or gelato and supply it to other businesses.",
     "searchTerms": [
       "icecream",
       "process",
@@ -522,6 +542,7 @@
   {
     "dataName": "Commercial bakery",
     "displayName": "Commercial bakery",
+    "description": "Commercial bakeries make for example bread, cookies, cakes and pastries and distributes them nationally. They have no on-site shop.",
     "searchTerms": [
       "patisserie",
       "pastry",
@@ -555,6 +576,7 @@
   {
     "dataName": "Manufacture of prepared meals and dishes",
     "displayName": "Ready to eat meals or food manufacturer",
+    "description": "",
     "searchTerms": [
       "dish",
       "readymeal",
@@ -588,6 +610,7 @@
   {
     "dataName": "Manufacture of homogenised food preparations and dietetic food",
     "displayName": "Dietic or baby food manufacturer",
+    "description": "",
     "searchTerms": [
       "homogenise",
       "dietic",
@@ -624,6 +647,7 @@
   {
     "dataName": "Manufacture of other food products n.e.c.",
     "displayName": "Manufacturer of other food products",
+    "description": "",
     "searchTerms": ["ice", "mill", "process", "factory", "maker", "producer"],
     "baseScores": {
       "Type of food and method of handling": 40,
@@ -643,6 +667,7 @@
   {
     "dataName": "Manufacture-Alcoholic drinks",
     "displayName": "Alcoholic drinks manufacturer",
+    "description": "",
     "searchTerms": [
       "brew",
       "microbrewery",
@@ -688,6 +713,7 @@
   {
     "dataName": "Manufacture-Soft drinks, mineral waters and other bottled waters",
     "displayName": "Non alcoholic drinks manufacturer",
+    "description": "",
     "searchTerms": [
       "soft",
       "soda",
@@ -721,6 +747,7 @@
   {
     "dataName": "Packer-Mineral waters",
     "displayName": "Mineral water packer",
+    "description": "",
     "searchTerms": ["sparkling", "carbonated", "bottle", "spring"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -740,6 +767,7 @@
   {
     "dataName": "Packer-Contract packers",
     "displayName": "Contract packer",
+    "description": "",
     "searchTerms": [
       "cannery",
       "canning",
@@ -774,6 +802,7 @@
   {
     "dataName": "Food delivery service-Deliver food to consumers",
     "displayName": "Food delivery service",
+    "description": "",
     "searchTerms": ["meals on wheels", "order"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -785,6 +814,7 @@
   {
     "dataName": "Food delivery service-Process food order only for consumers, e.g. Just Eat",
     "displayName": "Food ordering service",
+    "description": "",
     "searchTerms": ["delivery", "process", "aggregator"],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -804,6 +834,7 @@
   {
     "dataName": "Storage provider",
     "displayName": "Food storage facility",
+    "description": "",
     "searchTerms": [
       "cold",
       "warehouse",
@@ -830,6 +861,7 @@
   {
     "dataName": "Food broker",
     "displayName": "Food broker",
+    "description": "",
     "searchTerms": [
       "agent",
       "negotiator",
@@ -848,6 +880,7 @@
   {
     "dataName": "Wholesaler",
     "displayName": "Wholesaler",
+    "description": "",
     "searchTerms": [
       "supplier",
       "bulk",
@@ -880,6 +913,7 @@
   {
     "dataName": "Cash and carry",
     "displayName": "Cash and carry",
+    "description": "",
     "searchTerms": ["wholesale", "supplier", "membership", "warehouse", "bulk"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -899,6 +933,7 @@
   {
     "dataName": "Haulage company",
     "displayName": "Haulage company",
+    "description": "",
     "searchTerms": [
       "shipping",
       "transport",
@@ -917,6 +952,7 @@
   {
     "dataName": "Internet only food",
     "displayName": "Online retailer",
+    "description": "",
     "searchTerms": [
       "internet",
       "amazon",
@@ -946,6 +982,7 @@
   {
     "dataName": "Supermarket",
     "displayName": "Supermarket",
+    "description": "",
     "searchTerms": [
       "hypermarket",
       "grocery",
@@ -984,6 +1021,7 @@
   {
     "dataName": "Convenience store/mini-market/corner shop",
     "displayName": "Local convenience store or corner shop",
+    "description": "",
     "searchTerms": ["cornershop", "store", "grocery", "retail"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -1003,6 +1041,7 @@
   {
     "dataName": "Farm-Gate sales",
     "displayName": "Farm gate sales",
+    "description": "",
     "searchTerms": ["eggs", "potatoes", "gatesale", "retail", "milk", "raw"],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -1023,6 +1062,7 @@
   {
     "dataName": "Farm shop",
     "displayName": "Farm shop",
+    "description": "",
     "searchTerms": ["retail", "farmshop"],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -1048,6 +1088,7 @@
   {
     "dataName": "Confectionery/sweet shop",
     "displayName": "Sweet shop or Confectioner",
+    "description": "",
     "searchTerms": [
       "candy",
       "dessert",
@@ -1074,6 +1115,7 @@
   {
     "dataName": "Butcher (retail only)",
     "displayName": "Butcher",
+    "description": "",
     "searchTerms": ["meat", "halal", "retail", "cutting", "store", "shop"],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -1099,6 +1141,7 @@
   {
     "dataName": "Fishmonger",
     "displayName": "Fishmonger",
+    "description": "",
     "searchTerms": [
       "seafood",
       "monger",
@@ -1126,6 +1169,7 @@
   {
     "dataName": "Greengrocer/fruiterer",
     "displayName": "Greengrocer",
+    "description": "",
     "searchTerms": [
       "fruiterer",
       "fruit",
@@ -1159,6 +1203,7 @@
   {
     "dataName": "Health food shop",
     "displayName": "Health food shop",
+    "description": "",
     "searchTerms": [
       "retail",
       "vitamins",
@@ -1189,6 +1234,7 @@
   {
     "dataName": "Bakers shop (retail only)",
     "displayName": "Bakery",
+    "description": "",
     "searchTerms": [
       "pastry",
       "shop",
@@ -1218,6 +1264,7 @@
   {
     "dataName": "Newsagent, post office",
     "displayName": "Newsagent or Post Office",
+    "description": "",
     "searchTerms": [
       "shop",
       "tobacconist",
@@ -1244,6 +1291,7 @@
   {
     "dataName": "Market stalls",
     "displayName": "Market stalls with permanent pitch",
+    "description": "",
     "searchTerms": ["pop up", "popup", "bazar"],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -1269,6 +1317,7 @@
   {
     "dataName": "Off licence",
     "displayName": "Off licence",
+    "description": "",
     "searchTerms": [
       "tobacconist",
       "wine",
@@ -1303,6 +1352,7 @@
   {
     "dataName": "Petrol station/Garage",
     "displayName": "Petrol station or garage",
+    "description": "",
     "searchTerms": ["retail", "gas", "store", "shop", "store"],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -1334,6 +1384,7 @@
   {
     "dataName": "Delicatessen",
     "displayName": "Delicatessen",
+    "description": "",
     "searchTerms": [
       "ham",
       "cold cut",
@@ -1361,6 +1412,7 @@
   {
     "dataName": "Chemist",
     "displayName": "Chemist",
+    "description": "",
     "searchTerms": ["pharmacy", "retail", "apothecary", "shop", "store"],
     "baseScores": {
       "Type of food and method of handling": 5,
@@ -1380,6 +1432,7 @@
   {
     "dataName": "Retailers",
     "displayName": "Any other retailer",
+    "description": "",
     "searchTerms": [
       "shop",
       "store",
@@ -1436,6 +1489,7 @@
   {
     "dataName": "Vending machine",
     "displayName": "Vending machine",
+    "description": "",
     "searchTerms": [
       "drinks",
       "snacks",
@@ -1467,6 +1521,7 @@
   {
     "dataName": "Restaurant/Cafe/Canteen/Fast food restaurant",
     "displayName": "Restaurant, cafe, canteen or fast food",
+    "description": "",
     "searchTerms": [
       "bistro",
       "brunch",
@@ -1573,6 +1628,7 @@
   {
     "dataName": "Hostel or B&B",
     "displayName": "Hostel or bed and breakfast ",
+    "description": "",
     "searchTerms": [
       "B&B",
       "&",
@@ -1610,6 +1666,7 @@
   {
     "dataName": "Hotels",
     "displayName": "Hotel",
+    "description": "",
     "searchTerms": [
       "guesthouse",
       "inn",
@@ -1656,6 +1713,7 @@
   {
     "dataName": "Pubs - Meals",
     "displayName": "Pub serving meals",
+    "description": "",
     "searchTerms": [
       "bar",
       "alcohol",
@@ -1708,6 +1766,7 @@
   {
     "dataName": "Pubs - snacks and drinks only",
     "displayName": "Pub serving only snacks and drinks",
+    "description": "",
     "searchTerms": [
       "bar",
       "alcohol",
@@ -1755,6 +1814,7 @@
   {
     "dataName": "Take away-No food consumed on site",
     "displayName": "Take away with no food consumed on site",
+    "description": "",
     "searchTerms": [
       "takeaway",
       "delivery",
@@ -1863,6 +1923,7 @@
   {
     "dataName": "Nursing, care homes, day centres",
     "displayName": "Nursing home, care home or day centre",
+    "description": "",
     "searchTerms": [
       "elderly",
       "sheltered",
@@ -1891,6 +1952,7 @@
   {
     "dataName": "Hospitals",
     "displayName": "Hospital",
+    "description": "",
     "searchTerms": [
       "GP",
       "emergency",
@@ -1919,6 +1981,7 @@
   {
     "dataName": "Childminder",
     "displayName": "Childminder",
+    "description": "",
     "searchTerms": ["minder", "babysitter", "nanny"],
     "baseScores": {
       "Type of food and method of handling": 10,
@@ -1938,6 +2001,7 @@
   {
     "dataName": "Childcare, Nursery; pre/after school care; play group etc-Meals",
     "displayName": "Childcarer, nursery or play group",
+    "description": "",
     "searchTerms": [
       "care",
       "babysitter",
@@ -1974,6 +2038,7 @@
   {
     "dataName": "Educational establishment (schools, colleges, university)",
     "displayName": "Educational establishment",
+    "description": "",
     "searchTerms": [
       "school",
       "college",
@@ -2010,6 +2075,7 @@
   {
     "dataName": "Mobile retailer",
     "displayName": "Mobile retailer",
+    "description": "",
     "searchTerms": [
       "movable",
       "market",
@@ -2047,6 +2113,7 @@
   {
     "dataName": "Mobile caterer",
     "displayName": "Mobile caterer",
+    "description": "",
     "searchTerms": [
       "movable",
       "market",
@@ -2095,6 +2162,7 @@
   {
     "dataName": "Movable food establishment",
     "displayName": "Movable food establishment",
+    "description": "",
     "searchTerms": [
       "train",
       "locomotive",
@@ -2140,6 +2208,7 @@
   {
     "dataName": "Contract caterer",
     "displayName": "Contract caterer",
+    "description": "",
     "searchTerms": ["office", "lunch"],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -2171,6 +2240,7 @@
   {
     "dataName": "Home caterer",
     "displayName": "Home caterer",
+    "description": "",
     "searchTerms": [
       "baker",
       "cake",
@@ -2210,6 +2280,7 @@
   {
     "dataName": "Meat cutting plant/catering butcher",
     "displayName": "Meat cutting plant or commercial butcher",
+    "description": "",
     "searchTerms": ["halal", "butchery"],
     "baseScores": {
       "Type of food and method of handling": 30,
@@ -2221,6 +2292,7 @@
   {
     "dataName": "Auction hall (fish)",
     "displayName": "Food auction hall",
+    "description": "",
     "searchTerms": ["auctioneer", "bidding"],
     "baseScores": {
       "Type of food and method of handling": 30,
