@@ -13,12 +13,11 @@
   },
   {
     "id": "CAR4",
-    "wording": "Be a hypermarket or superstore"
+    "wording": "Is a hypermarket or superstore"
   },
   {
     "id": "CAR5",
-    "wording":
-      "Be located in a travel area. For example motorway service area or airport."
+    "wording": "Be located in a travel area. For example motorway service area or airport."
   },
   {
     "id": "CAR6",
@@ -38,18 +37,15 @@
   },
   {
     "id": "FAH1",
-    "wording":
-      "Package and fille, slice, skin, mince, freeze or process seafood"
+    "wording": "Package and fille, slice, skin, mince, freeze or process seafood"
   },
   {
     "id": "FAH2",
-    "wording":
-      "Manufacture high risk ready to eat food. For example smoothies, meat pies or liquid egg."
+    "wording": "Manufacture high risk ready to eat food. For example smoothies, meat pies or liquid egg."
   },
   {
     "id": "FAH3",
-    "wording":
-      "Pack only low risk food. Such as drinks, crisps or other shelf stable items."
+    "wording": "Pack only low risk food. Such as drinks, crisps or other shelf stable items."
   },
   {
     "id": "FAH4",
@@ -57,18 +53,15 @@
   },
   {
     "id": "FAH5",
-    "wording":
-      "Re-wrap or re-pack high risk food. For example sandwhiches, meat or cheese."
+    "wording": "Re-wrap or re-pack high risk food. For example sandwhiches, meat or cheese."
   },
   {
     "id": "FAH6",
-    "wording":
-      "Sell only low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks."
+    "wording": "Sell only low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks."
   },
   {
     "id": "FAH7",
-    "wording":
-      "Cooking or preparing high risk food. For example sandwiches, meat or soup."
+    "wording": "Cook or prepare high risk food. For example sandwiches, meat or soup."
   },
   {
     "id": "FAH8",
@@ -76,18 +69,15 @@
   },
   {
     "id": "FAH9",
-    "wording":
-      "Sell or handle high risk pre-packed food. For example meat, sandwiches or scooped ice cream."
+    "wording": "Sell or handle high risk pre-packed food. For example meat, sandwiches or scooped ice cream."
   },
   {
     "id": "FAH10",
-    "wording":
-      "Sell only food that can be stored in room temperature and raw meat"
+    "wording": "Sell only raw meat and food that can be stored at room temperature"
   },
   {
     "id": "FAH11",
-    "wording":
-      "Handle or sell pre-packed high risk food. For example sandwiches, meat or cheese."
+    "wording": "Handle or sell pre-packed high risk food. For example sandwiches, meat or cheese."
   },
   {
     "id": "FAH12",
@@ -95,23 +85,19 @@
   },
   {
     "id": "FAH13",
-    "wording":
-      "Prepare, cook or handle high risk non packaged food. For example pizza or soup"
+    "wording": "Prepare, cook or handle made to order high risk food. For example pizza or soup"
   },
   {
     "id": "FAH14",
-    "wording":
-      "Sell only food that can be stored in room temperature and raw fish"
+    "wording": "Sell only raw fish or food that can be stored at room temperature"
   },
   {
     "id": "FAH15",
-    "wording":
-      "Prepare high risk food, such as sandwiches, meat or soup, but serve less than 20 people a day"
+    "wording": "Prepare high risk food, such as sandwiches, meat or soup, but serve less than 20 people a day"
   },
   {
     "id": "FAH17",
-    "wording":
-      "Make only low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
+    "wording": "Make only low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
   },
   {
     "id": "PRO1",
@@ -135,8 +121,7 @@
   },
   {
     "id": "PRO6",
-    "wording":
-      "Serve undercooked or raw meat or fish. For example rare burgers, sushi or tartare."
+    "wording": "Serve undercooked or raw meat or fish. For example rare burgers, sushi or tartare."
   },
   {
     "id": "PRO7",
@@ -144,21 +129,22 @@
   },
   {
     "id": "PRO8",
-    "wording":
-      "Use specialist processing methods. For example sous-vide cooking, cooking with acid or vacuum packing foods."
+    "wording": "Use specialist processing methods. For example sous-vide cooking, cooking with acid or vacuum packing foods."
   },
   {
     "id": "VG1",
-    "wording": "Serve food to elderly or children under five"
+    "wording": "Serve food to elderly or children under five years"
   },
   {
     "id": "VG2",
-    "wording":
-      "Serve food to vulnerable groups larger than 20 people. For example sick or elderly."
+    "wording": "Serve food to vulnerable groups larger than 20 people. For example the sick or the elderly."
   },
   {
     "id": "VG3",
-    "wording":
-      "Provide only drinks and low risk snacks. For example fruit or crisps"
+    "wording": "Provide only drinks and low risk snacks. For example fruit or crisps"
+  },
+  {
+    "id": "VG4",
+    "wording": "Manufacture food meant for the elderly or children under fice years"
   }
 ]
