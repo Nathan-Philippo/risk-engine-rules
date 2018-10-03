@@ -1,150 +1,165 @@
 [
   {
     "id": "CAR1",
-    "wording": "Distribute or sell food locally"
+    "pageWording": "Distribute or sell food locally"
   },
   {
     "id": "CAR2",
-    "wording": "Sell more than 2 tonnes of meat each week"
+    "pageWording": "Sell more than 2 tonnes of meat each week"
   },
   {
     "id": "CAR3",
-    "wording": "Distrubute food nationally"
+    "pageWording": "Distrubute food nationally or internationally"
   },
   {
     "id": "CAR4",
-    "wording": "Is a hypermarket or superstore"
+    "pageWording": "Is a hypermarket or superstore"
   },
   {
     "id": "CAR5",
-    "wording": "Be located in a travel area. For example motorway service area or airport."
+    "pageWording": "Serves customers living outside the local area. For example it is located at motorway services or at an airport.",
+    "summaryWording": "Serves customers living outside the local area"
   },
   {
     "id": "CAR6",
-    "wording": "Sell food online"
+    "pageWording": "Sell food online"
   },
   {
     "id": "CAR7",
-    "wording": "Serve less than 20 people each day"
+    "pageWording": "Serve less than 20 people each day"
   },
   {
     "id": "CAR8",
-    "wording": "Grade eggs"
+    "pageWording": "Grade eggs"
   },
   {
     "id": "CAR9",
-    "wording": "Serve more than 20 people each day"
+    "pageWording": "Serve more than 20 people each day"
   },
   {
     "id": "FAH1",
-    "wording": "Package and fille, slice, skin, mince, freeze or process seafood"
+    "pageWording": "Package and fille, slice, skin, mince, freeze or process seafood"
   },
   {
     "id": "FAH2",
-    "wording": "Manufacture high risk ready to eat food. For example smoothies, meat pies or liquid egg."
+    "pageWording": "Manufacture high risk ready to eat food. For example smoothies, meat pies or liquid egg.",
+    "summarywording": "Manufacture high risk ready to eat food"
   },
   {
     "id": "FAH3",
-    "wording": "Pack only low risk food. Such as drinks, crisps or other shelf stable items."
+    "pageWording": "Pack only low risk food. Such as drinks, crisps or other shelf stable items.",
+    "summaryWording": "Pack only low risk food"
   },
   {
     "id": "FAH4",
-    "wording": "Deliver food to customers"
+    "pageWording": "Deliver food to customers"
   },
   {
     "id": "FAH5",
-    "wording": "Re-wrap or re-pack high risk food. For example sandwhiches, meat or cheese."
+    "pageWording": "Re-wrap or re-pack high risk food. For example sandwhiches, meat or cheese.",
+    "summaryWording": "Re-wrap or re-pack high risk food"
   },
   {
     "id": "FAH6",
-    "wording": "Sell only low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks."
+    "pageWording": "Only sell low risk food that can be stored at room tempretature. For example pre-packed snacks or drinks.",
+    "summaryWording": "Only sell low risk food stored at room tempretature"
   },
   {
     "id": "FAH7",
-    "wording": "Cook or prepare high risk food. For example sandwiches, meat or soup."
+    "pageWording": "Cook, handle or prepare high risk food. For example sandwiches, meat or soup.",
+    "summaryWording": "Cook, handle or prepare high risk food"
   },
   {
     "id": "FAH8",
-    "wording": "ISell raw milk"
+    "pageWording": "Sell raw milk"
   },
   {
     "id": "FAH9",
-    "wording": "Sell or handle high risk pre-packed food. For example meat, sandwiches or scooped ice cream."
+    "pageWording": "Sell or handle high risk pre-packed food. For example meat, sandwiches or scooped ice cream.",
+    "summaryWording": "Sell or handle high risk pre-packed food"
   },
   {
     "id": "FAH10",
-    "wording": "Sell only raw meat and food that can be stored at room temperature"
+    "pageWording": "Only sell raw meat and food that can be stored at room temperature"
   },
   {
     "id": "FAH11",
-    "wording": "Handle or sell pre-packed high risk food. For example sandwiches, meat or cheese."
+    "pageWording": "Handle or sell pre-packed high risk food. For example sandwiches, meat or cheese.",
+    "summaryWording": "Handle or sell pre-packed high risk food"
   },
   {
     "id": "FAH12",
-    "wording": "Vend high risk pre packed food. For example sandwiches"
+    "pageWording": "Vend high risk pre packed food. For example sandwiches"
   },
   {
     "id": "FAH13",
-    "wording": "Prepare, cook or handle made to order high risk food. For example pizza or soup"
+    "pageWording": "Vend made to order high risk food. For example pizza or soup",
+    "summaryWording": "Vend made to order high risk food"
   },
   {
     "id": "FAH14",
-    "wording": "Sell only raw fish or food that can be stored at room temperature"
+    "pageWording": "Only sell raw fish or food that can be stored at room temperature"
   },
   {
     "id": "FAH15",
-    "wording": "Prepare high risk food, such as sandwiches, meat or soup, but serve less than 20 people a day"
+    "pageWording": "Prepare and sell high risk food, such as sandwiches, meat or soup, but serve less than 20 people a day",
+    "summaryWording": "Prepare and sell high risk food, but serve less than 20 people a day"
   },
   {
     "id": "FAH17",
-    "wording": "Make only low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies."
+    "pageWording": "Only make low risk products. For example jams, chutneys, sponge cakes, biscuits or cookies.",
+    "summaryWording": "Only make low risk products"
   },
   {
     "id": "PRO1",
-    "wording": "Pasteurise or use other shelf life extending methods"
+    "pageWording": "Pasteurise or use other shelf life extending methods"
   },
   {
     "id": "PRO2",
-    "wording": "Use only pasteurised milk or milk powder"
+    "pageWording": "Only use pasteurised milk or milk powder"
   },
   {
     "id": "PRO3",
-    "wording": "Vacuum pack food"
+    "pageWording": "Vacuum pack food"
   },
   {
     "id": "PRO4",
-    "wording": "Process and supply seafood to other businesses"
+    "pageWording": "Process and supply seafood to other businesses"
   },
   {
     "id": "PRO5",
-    "wording": "Cook and prepare own hams"
+    "pageWording": "Cook and prepare own hams"
   },
   {
     "id": "PRO6",
-    "wording": "Serve undercooked or raw meat or fish. For example rare burgers, sushi or tartare."
+    "pageWording": "Serve undercooked or raw meat or fish. For example rare burgers, sushi or tartare.",
+    "summaryWording": "Serve undercooked or raw meat or fish"
   },
   {
     "id": "PRO7",
-    "wording": "Operate a cook chill operation"
+    "pageWording": "Also operate a cook chill operation"
   },
   {
     "id": "PRO8",
-    "wording": "Use specialist processing methods. For example sous-vide cooking, cooking with acid or vacuum packing foods."
+    "pageWording": "Use specialist processing methods. For example sous-vide cooking, cooking with acid or vacuum packing foods.",
+    "summaryWording": "Use specialist processing methods"
   },
   {
     "id": "VG1",
-    "wording": "Serve food to elderly or children under five years"
+    "pageWording": "Serve food to elderly or children under five years"
   },
   {
     "id": "VG2",
-    "wording": "Serve food to vulnerable groups larger than 20 people. For example the sick or the elderly."
+    "pageWording": "Serve more than 20 people per day from vulnerable groups. For example the sick or the elderly.",
+    "summaryWording": "Serve more than 20 people per day from vulnerable groups"
   },
   {
     "id": "VG3",
-    "wording": "Provide only drinks and low risk snacks. For example fruit or crisps"
+    "pageWording": "Provide only drinks and low risk snacks. For example fruit or crisps",
+    "summaryWording": "Provide only drinks and low risk snacks"
   },
   {
     "id": "VG4",
-    "wording": "Manufacture food meant for the elderly or children under fice years"
+    "pageWording": "Manufacture food meant for the elderly or children under fice years"
   }
 ]
