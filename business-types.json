@@ -2,17 +2,19 @@
   {
     "dataName": "Farm-Fruit and vegetable grower",
     "displayName": "Fruit and vegetable farm",
+    "description": "Fruit and vegetable farms grow and distribute fruit or vegetables",
     "searchTerms": ["farmer", "grower", "agriculture", "orchard"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Farm-Livestock",
     "displayName": "Livestock farm",
+    "description": "Livestock farms raise animals and sell them at auction or take them to abattoirs",
     "searchTerms": [
       "farmer",
       "cow",
@@ -25,49 +27,52 @@
       "buffalo"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Farm-Arable",
     "displayName": "Arable farm",
+    "description": "Arable farms grow and harvest crops",
     "searchTerms": ["farmer", "crop", "agriculture"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Beekeeper",
     "displayName": "Beekeeper",
+    "description": "Beekeepers keep bees in hives and extract honey from them",
     "searchTerms": ["honey", "farmer", "hive", "keeper", "apiarist"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Honey maker",
     "displayName": "Honey maker",
+    "description": "Honey makers extract and package honey for national retail",
     "searchTerms": ["bee", "manufacturer", "honeymaker"],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -75,35 +80,37 @@
   {
     "dataName": "Hunting and trapping",
     "displayName": "Hunting and trapping",
+    "description": "Hunters and trappers hunt and trap wild animals for food",
     "searchTerms": ["wildlife", "game", "wild", "fowl", "deer"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Egg processor",
     "displayName": "Egg processor",
+    "description": "Egg processors manufacture or process egg products and distributes them nationally",
     "searchTerms": ["duck", "chicken", "quail"],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "PRO1",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -111,18 +118,19 @@
   {
     "dataName": "Egg producer",
     "displayName": "Egg producer or packer",
+    "description": "Egg producers or packers have birds for egg laying and distributes eggs locally",
     "searchTerms": ["duck", "quail", "chicken"],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR8",
         "overrides": {
-          "Consumers at risk": 1000
+          "consumersAtRisk": 1000
         }
       }
     ]
@@ -130,6 +138,7 @@
   {
     "dataName": "Fishing vessel",
     "displayName": "Fishing boat",
+    "description": "Fishing boats fish and catch seafood for food",
     "searchTerms": [
       "fisherman",
       "vessel",
@@ -149,15 +158,16 @@
       "angling"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Farmed fishing",
     "displayName": "Fish farm",
+    "description": "Fish farms raise fish and other species in water for food",
     "searchTerms": [
       "fisherman",
       "fishfarm",
@@ -179,16 +189,16 @@
       "mariculture"
     ],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH?",
         "overrides": {
-          "Type of food and method of handling": 1000
+          "typeOfFoodAndMethodOfHandling": 1000
         }
       }
     ]
@@ -196,6 +206,7 @@
   {
     "dataName": "Processing and preserving of meat",
     "displayName": "Meat product manufacturer",
+    "description": "Meat product manufacturers produce preserved meats or meat based products. For example sausages or freezed meat.",
     "searchTerms": [
       "process",
       "preserve",
@@ -218,16 +229,16 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -235,17 +246,19 @@
   {
     "dataName": "Abattoirs",
     "displayName": "Abattoir",
+    "description": "Abattoirs are where livestock animals go to slaughter. Contact your local council for approval",
     "searchTerms": ["slaughterhouse", "slaughter", "butcher", "halal", "cut"],
     "baseScores": {
-      "Type of food and method of handling": 0,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 0,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Processing and preserving of fish, crustaceans and molluscs",
     "displayName": "Fish and shellfish product manufacturer",
+    "description": "Fish and shellfish product manufacturers process seafood, for example freeze it or make fishfingers",
     "searchTerms": [
       "process",
       "preserve",
@@ -267,16 +280,16 @@
       "maker"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -284,6 +297,7 @@
   {
     "dataName": "Purification centres for shellfish",
     "displayName": "Shellfish purification centre",
+    "description": "Shellfish purification centres treat seafood to remove impurites and contaminates",
     "searchTerms": [
       "plant",
       "oyster",
@@ -297,16 +311,16 @@
       "depuration"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -314,6 +328,7 @@
   {
     "dataName": "Processing and preserving of potatoes",
     "displayName": "Potato product manufacturer",
+    "description": "Potato product manufacturers process poatatoes, for example cuts and freeze it or make crisps",
     "searchTerms": [
       "process",
       "preserve",
@@ -326,16 +341,16 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -343,6 +358,7 @@
   {
     "dataName": "Manufacture of fruit and vegetable juice",
     "displayName": "Fruit and vegetable juice manufacturer",
+    "description": "Fruit and vegetable juice manufacturers make drinks from fruit and vegetable. For example juice or smoothies.",
     "searchTerms": [
       "drink",
       "factory",
@@ -354,28 +370,28 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "FAH2",
         "overrides": {
-          "Type of food and method of handling": 40
+          "typeOfFoodAndMethodOfHandling": 40
         }
       },
       {
         "answerCode": "PRO1",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -383,6 +399,7 @@
   {
     "dataName": "Other processing and preserving of fruit and vegetables",
     "displayName": "Fruit and vegetable product manufacturer",
+    "description": "Fruit and vegetable product manufacturers process fruit or vegetables. For example tinned fruit, bags of salad leafs or vegan products.",
     "searchTerms": [
       "process",
       "factory",
@@ -398,22 +415,22 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "PRO1",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -421,6 +438,7 @@
   {
     "dataName": "Manufacture of oils and fats",
     "displayName": "Oil and/or fat manufacturer",
+    "description": "Oil and/or fat manufacturers process vegetable oil or animal fat to produce products. For example olive oil or lard",
     "searchTerms": [
       "lard",
       "butter",
@@ -435,22 +453,22 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "PRO1",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -458,6 +476,7 @@
   {
     "dataName": "Operation of dairies and cheese making",
     "displayName": "Dairies and cheese manufacturer",
+    "description": "Dairy or cheese manufacturers makes products such as yoghurt or cheddar",
     "searchTerms": [
       "yoghurt",
       "process",
@@ -471,16 +490,16 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -488,6 +507,7 @@
   {
     "dataName": "Manufacture of ice cream",
     "displayName": "Ice cream manufacturer",
+    "description": "Ice cream manufacturers make products such as ice cream or gelato",
     "searchTerms": [
       "icecream",
       "process",
@@ -499,22 +519,22 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "PRO2",
         "overrides": {
-          "Method of processing": 0
+          "methodOfProcessing": 0
         }
       }
     ]
@@ -522,6 +542,7 @@
   {
     "dataName": "Commercial bakery",
     "displayName": "Commercial bakery",
+    "description": "Commercial bakeries make products such as bread, cookies, cakes and pastries and distributes them nationally. They have no on-site shop.",
     "searchTerms": [
       "patisserie",
       "pastry",
@@ -532,22 +553,22 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "FAH2",
         "overrides": {
-          "Type of food and method of handling": 40
+          "typeOfFoodAndMethodOfHandling": 40
         }
       }
     ]
@@ -555,6 +576,7 @@
   {
     "dataName": "Manufacture of prepared meals and dishes",
     "displayName": "Ready to eat meals or food manufacturer",
+    "description": "Ready to eat meals manufacturers process different products to make food that is generally ready to eat for the consumer. Processes include for example canning, cooking, chilling or freezing.",
     "searchTerms": [
       "dish",
       "readymeal",
@@ -565,22 +587,22 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
-        "answerCode": "VG1",
+        "answerCode": "VG4",
         "overrides": {
-          "Vulnerable group": 22
+          "vulnerableGroup": 22
         }
       }
     ]
@@ -588,9 +610,9 @@
   {
     "dataName": "Manufacture of homogenised food preparations and dietetic food",
     "displayName": "Dietic or baby food manufacturer",
+    "description": "Dietetic or baby food manufacturers makes food that is either specific to a certain diet, for example gluten free foods, or food that is blended smooth, for example baby food or protein drinks",
     "searchTerms": [
       "homogenise",
-      "dietic",
       "formula",
       "protein",
       "powder",
@@ -607,16 +629,16 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
-        "answerCode": "VG1",
+        "answerCode": "VG4",
         "overrides": {
-          "Vulnerable group": 22
+          "vulnerableGroup": 22
         }
       }
     ]
@@ -624,18 +646,19 @@
   {
     "dataName": "Manufacture of other food products n.e.c.",
     "displayName": "Manufacturer of other food products",
+    "description": "Manufacturer of other food products make products such as coffee, infant formula, mayonnaise or uncooked pizza. If you couldn't find any other fitting manufacturer type on the previous page, this is the best selection for you. ",
     "searchTerms": ["ice", "mill", "process", "factory", "maker", "producer"],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 20,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 20,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
-        "answerCode": "VG1",
+        "answerCode": "VG4",
         "overrides": {
-          "Vulnerable group": 22
+          "vulnerableGroup": 22
         }
       }
     ]
@@ -643,6 +666,7 @@
   {
     "dataName": "Manufacture-Alcoholic drinks",
     "displayName": "Alcoholic drinks manufacturer",
+    "description": "Alcoholic drinks manufacturers makes drinks containing alcohol. For example beer, gin or wine.",
     "searchTerms": [
       "brew",
       "microbrewery",
@@ -671,16 +695,16 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -688,6 +712,7 @@
   {
     "dataName": "Manufacture-Soft drinks, mineral waters and other bottled waters",
     "displayName": "Non alcoholic drinks manufacturer",
+    "description": "Non alcoholic drinks manufacturers makes drinks containing no alcohol. For example lemonade, milkshakes or energy drinks.",
     "searchTerms": [
       "soft",
       "soda",
@@ -704,16 +729,16 @@
       "producer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -721,18 +746,19 @@
   {
     "dataName": "Packer-Mineral waters",
     "displayName": "Mineral water packer",
+    "description": "Mineral water packers bottle still or sparkling water, and supply other businesses",
     "searchTerms": ["sparkling", "carbonated", "bottle", "spring"],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -740,6 +766,7 @@
   {
     "dataName": "Packer-Contract packers",
     "displayName": "Contract packer",
+    "description": "Contract packers package food on behalf of someone else and are not involved in processing food. Methods of packing include for example canning, bottling or wrapping.",
     "searchTerms": [
       "cannery",
       "canning",
@@ -751,22 +778,22 @@
       "bottle"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "FAH3",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -774,29 +801,31 @@
   {
     "dataName": "Food delivery service-Deliver food to consumers",
     "displayName": "Food delivery service",
+    "description": "Food delivery services transports the food from a business to the end consumer. They do not make food themselves.",
     "searchTerms": ["meals on wheels", "order"],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Food delivery service-Process food order only for consumers, e.g. Just Eat",
     "displayName": "Food ordering service",
+    "description": "Food ordering services process food orders on behalf of someone else to deliver it. They do not have any physical contact with the food.",
     "searchTerms": ["delivery", "process", "aggregator"],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH4",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -804,6 +833,7 @@
   {
     "dataName": "Storage provider",
     "displayName": "Food storage facility",
+    "description": "Food storage facilities store food. Some may use temperature controlled environments, such as cold stores.",
     "searchTerms": [
       "cold",
       "warehouse",
@@ -813,16 +843,16 @@
       "distributer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH5",
         "overrides": {
-          "Type of food and method of handling": 40
+          "typeOfFoodAndMethodOfHandling": 40
         }
       }
     ]
@@ -830,6 +860,7 @@
   {
     "dataName": "Food broker",
     "displayName": "Food broker",
+    "description": "Food brokers arrange transactions between seller and buyer. They take legal ownership of the food, but never physical. ",
     "searchTerms": [
       "agent",
       "negotiator",
@@ -839,15 +870,16 @@
       "buyer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Wholesaler",
     "displayName": "Wholesaler",
+    "description": "Wholesalers primarily sells food products to other food businesses, and delivers locally or regionally ",
     "searchTerms": [
       "supplier",
       "bulk",
@@ -857,22 +889,22 @@
       "distribute"
     ],
     "baseScores": {
-      "Type of food and method of handling": 40,
-      "Method of processing": 0,
-      "Consumers at risk": 10,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 40,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 10,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR3",
         "overrides": {
-          "Consumers at risk": 15
+          "consumersAtRisk": 15
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -880,18 +912,19 @@
   {
     "dataName": "Cash and carry",
     "displayName": "Cash and carry",
+    "description": "Cash and carry primarily sells food products to other food businesses. Both local and non-local businesses visit and transport the food themselves.",
     "searchTerms": ["wholesale", "supplier", "membership", "warehouse", "bulk"],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 10,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 10,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -899,6 +932,7 @@
   {
     "dataName": "Haulage company",
     "displayName": "Haulage company",
+    "description": "Haulage companies move food products between locations on behalf of customers",
     "searchTerms": [
       "shipping",
       "transport",
@@ -908,15 +942,16 @@
       "distributer"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Internet only food",
     "displayName": "Online retailer",
+    "description": "Online retailers sell food products via the internet. The products are distributed nationally and are generally not temperature controlled.",
     "searchTerms": [
       "internet",
       "amazon",
@@ -929,16 +964,16 @@
       "website"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH7",
         "overrides": {
-          "Type of food and method of handling": 30
+          "typeOfFoodAndMethodOfHandling": 30
         }
       }
     ]
@@ -946,6 +981,7 @@
   {
     "dataName": "Supermarket",
     "displayName": "Supermarket",
+    "description": "Supermarkets sell prepackaged food as well as open food, for example bake off bread or delicatessen, to local customers",
     "searchTerms": [
       "hypermarket",
       "grocery",
@@ -955,28 +991,28 @@
       "retail"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR4",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "FAH5",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "PRO3",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -984,18 +1020,19 @@
   {
     "dataName": "Convenience store/mini-market/corner shop",
     "displayName": "Local convenience store or corner shop",
+    "description": "Local convenience stores or corner shops sell prepackaged food to local customers",
     "searchTerms": ["cornershop", "store", "grocery", "retail"],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH7",
         "overrides": {
-          "Type of food and method of handling": 30
+          "typeOfFoodAndMethodOfHandling": 30
         }
       }
     ]
@@ -1003,19 +1040,20 @@
   {
     "dataName": "Farm-Gate sales",
     "displayName": "Farm gate sales",
+    "description": "Farm gate sales sells shelf stable products such as eggs or potatoes on a small scale from the farm",
     "searchTerms": ["eggs", "potatoes", "gatesale", "retail", "milk", "raw"],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH8",
         "overrides": {
-          "Type of food and method of handling": 40,
-          "Method of processing": 20
+          "typeOfFoodAndMethodOfHandling": 40,
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1023,24 +1061,25 @@
   {
     "dataName": "Farm shop",
     "displayName": "Farm shop",
+    "description": "Fark shops prepare, cook or handle food and serve it to customers",
     "searchTerms": ["retail", "farmshop"],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH9",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -1048,6 +1087,7 @@
   {
     "dataName": "Confectionery/sweet shop",
     "displayName": "Sweet shop or Confectioner",
+    "description": "Sweet shops or confectioners retail prepackaged food",
     "searchTerms": [
       "candy",
       "dessert",
@@ -1057,16 +1097,16 @@
       "retail"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH9",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -1074,24 +1114,25 @@
   {
     "dataName": "Butcher (retail only)",
     "displayName": "Butcher",
+    "description": "Butchers prepare, cook or handle open foods, such as meat, pies or sausages, alongside general butchering.",
     "searchTerms": ["meat", "halal", "retail", "cutting", "store", "shop"],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH10",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       },
       {
         "answerCode": "PRO5",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1099,6 +1140,7 @@
   {
     "dataName": "Fishmonger",
     "displayName": "Fishmonger",
+    "description": "Fishmongers prepare, cook or handle open seafoods, such as smoked fish, alongside selling raw seafood",
     "searchTerms": [
       "seafood",
       "monger",
@@ -1109,16 +1151,16 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH14",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -1126,6 +1168,7 @@
   {
     "dataName": "Greengrocer/fruiterer",
     "displayName": "Greengrocer",
+    "description": "Greengrocers sell fruit and vegetables as well as other shelf stable products",
     "searchTerms": [
       "fruiterer",
       "fruit",
@@ -1136,22 +1179,22 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH11",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "FAH7",
         "overrides": {
-          "Type of food and method of handling": 30
+          "typeOfFoodAndMethodOfHandling": 30
         }
       }
     ]
@@ -1159,6 +1202,7 @@
   {
     "dataName": "Health food shop",
     "displayName": "Health food shop",
+    "description": "Health food shops sell low risk foods and other shelf stable food products. For example dried herbs or fruit",
     "searchTerms": [
       "retail",
       "vitamins",
@@ -1172,16 +1216,16 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH11",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -1189,6 +1233,7 @@
   {
     "dataName": "Bakers shop (retail only)",
     "displayName": "Bakery",
+    "description": "Bakeries prepare, cook or handle open food items. For example bread, cookies or cakes",
     "searchTerms": [
       "pastry",
       "shop",
@@ -1201,16 +1246,16 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -1218,6 +1263,7 @@
   {
     "dataName": "Newsagent, post office",
     "displayName": "Newsagent or Post Office",
+    "description": "Newsagents or Post Offices retail prepackaged food",
     "searchTerms": [
       "shop",
       "tobacconist",
@@ -1227,16 +1273,16 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -1244,24 +1290,25 @@
   {
     "dataName": "Market stalls",
     "displayName": "Market stalls with permanent pitch",
+    "description": "Market stalls with a permanent location sell food products from a regular pitch",
     "searchTerms": ["pop up", "popup", "bazar"],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH9",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "FAH7",
         "overrides": {
-          "Type of food and method of handling": 30
+          "typeOfFoodAndMethodOfHandling": 30
         }
       }
     ]
@@ -1269,6 +1316,7 @@
   {
     "dataName": "Off licence",
     "displayName": "Off licence",
+    "description": "Off licences sell low risk foods and other shelf stable items. For example sweets, drinks or crisps.",
     "searchTerms": [
       "tobacconist",
       "wine",
@@ -1280,22 +1328,22 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH9",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "FAH7",
         "overrides": {
-          "Type of food and method of handling": 30
+          "typeOfFoodAndMethodOfHandling": 30
         }
       }
     ]
@@ -1303,30 +1351,31 @@
   {
     "dataName": "Petrol station/Garage",
     "displayName": "Petrol station or garage",
+    "description": "Petrol stations or garages sell prepackaged food as well as open food. For example bake off bread.",
     "searchTerms": ["retail", "gas", "store", "shop", "store"],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH9",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       },
       {
         "answerCode": "CAR5",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -1334,6 +1383,7 @@
   {
     "dataName": "Delicatessen",
     "displayName": "Delicatessen",
+    "description": "Delicatessens prepare cook or handle open high risk food, such as hams, cheeses for sandwiches",
     "searchTerms": [
       "ham",
       "cold cut",
@@ -1344,16 +1394,16 @@
       "store"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "PRO3",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1361,18 +1411,19 @@
   {
     "dataName": "Chemist",
     "displayName": "Chemist",
+    "description": "Chemists retails prepackaged and shelf stable foods, as a part of their regular business",
     "searchTerms": ["pharmacy", "retail", "apothecary", "shop", "store"],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH9",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -1380,6 +1431,7 @@
   {
     "dataName": "Retailers",
     "displayName": "Any other retailer",
+    "description": "Any other retailers retail pre packaged or shelf stable food items. If you couldn't find any other fitting retailer type on the previous page, this is the best selection for you.",
     "searchTerms": [
       "shop",
       "store",
@@ -1419,16 +1471,16 @@
       "attraction"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR6",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       }
     ]
@@ -1436,6 +1488,7 @@
   {
     "dataName": "Vending machine",
     "displayName": "Vending machine",
+    "description": "Vending machines dispense prepackaged food products. For example sweets, crisps or drinks.",
     "searchTerms": [
       "drinks",
       "snacks",
@@ -1444,22 +1497,22 @@
       "water fountain"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH12",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "FAH13",
         "overrides": {
-          "Type of food and method of handling": 30
+          "typeOfFoodAndMethodOfHandling": 30
         }
       }
     ]
@@ -1467,6 +1520,7 @@
   {
     "dataName": "Restaurant/Cafe/Canteen/Fast food restaurant",
     "displayName": "Restaurant, cafe, canteen or fast food",
+    "description": "Restaurants, cafes, canteens, or fast food restaurants prepare, cook or handle food. For example pizza, soup or pies.",
     "searchTerms": [
       "bistro",
       "brunch",
@@ -1538,34 +1592,34 @@
       "attraction"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR5",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       },
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1573,6 +1627,7 @@
   {
     "dataName": "Hostel or B&B",
     "displayName": "Hostel or bed and breakfast ",
+    "description": "Hostels or Bed and Breakfasts serve cooked or continental breakfasts",
     "searchTerms": [
       "B&B",
       "&",
@@ -1586,23 +1641,23 @@
       "airbnb"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR9",
         "overrides": {
-          "Type of food and method of handling": 30,
-          "Consumers at risk": 5
+          "typeOfFoodAndMethodOfHandling": 30,
+          "consumersAtRisk": 5
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -1610,6 +1665,7 @@
   {
     "dataName": "Hotels",
     "displayName": "Hotel",
+    "description": "Hotels prepare, cook or handle food and serve it to customers",
     "searchTerms": [
       "guesthouse",
       "inn",
@@ -1620,35 +1676,35 @@
       "airbnb"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR7",
         "overrides": {
-          "Type of food and method of handling": 10,
-          "Consumers at risk": 0
+          "typeOfFoodAndMethodOfHandling": 10,
+          "consumersAtRisk": 0
         }
       },
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       },
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1656,6 +1712,7 @@
   {
     "dataName": "Pubs - Meals",
     "displayName": "Pub serving meals",
+    "description": "Pubs serving meals serve alcoholic drinks to local customers and prepare, cook or handle food to be eaten on site",
     "searchTerms": [
       "bar",
       "alcohol",
@@ -1685,22 +1742,22 @@
       "brewery"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1708,6 +1765,7 @@
   {
     "dataName": "Pubs - snacks and drinks only",
     "displayName": "Pub serving only snacks and drinks",
+    "description": "Pubs serving only snacks and drinks",
     "searchTerms": [
       "bar",
       "alcohol",
@@ -1738,16 +1796,16 @@
       "wet pub"
     ],
     "baseScores": {
-      "Type of food and method of handling": 5,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 5,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH15",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       }
     ]
@@ -1755,6 +1813,7 @@
   {
     "dataName": "Take away-No food consumed on site",
     "displayName": "Take away with no food consumed on site",
+    "description": "Takeaways with no food consumed on site prepare, cook or handle food and serve customers that come and pick up food to eat off-site",
     "searchTerms": [
       "takeaway",
       "delivery",
@@ -1834,28 +1893,28 @@
       "attraction"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR5",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1863,6 +1922,7 @@
   {
     "dataName": "Nursing, care homes, day centres",
     "displayName": "Nursing home, care home or day centre",
+    "description": "Nursing homes, care homes or day centres prepare, cook or handle food and serve meals to their customers. These customers are considered vulnerable, for example elderly, children or the ill. ",
     "searchTerms": [
       "elderly",
       "sheltered",
@@ -1872,18 +1932,18 @@
       "retirement"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 22
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 22
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR7",
         "overrides": {
-          "Type of food and method of handling": 10,
-          "Consumers at risk": 0,
-          "Vulnerable group": 0
+          "typeOfFoodAndMethodOfHandling": 10,
+          "consumersAtRisk": 0,
+          "vulnerableGroup": 0
         }
       }
     ]
@@ -1891,6 +1951,7 @@
   {
     "dataName": "Hospitals",
     "displayName": "Hospital",
+    "description": "Hospitals cook or handle food and serve meals to patients. These patients are vulnerable, for example the ill.",
     "searchTerms": [
       "GP",
       "emergency",
@@ -1902,16 +1963,16 @@
       "hospice"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 10,
-      "Vulnerable group": 22
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 10,
+      "vulnerableGroup": 22
     },
     "supplementaryScores": [
       {
         "answerCode": "PRO7",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -1919,18 +1980,19 @@
   {
     "dataName": "Childminder",
     "displayName": "Childminder",
+    "description": "Childminders cook or handle food and serve meals to children under five years",
     "searchTerms": ["minder", "babysitter", "nanny"],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 0,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 0,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "VG3",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -1938,6 +2000,7 @@
   {
     "dataName": "Childcare, Nursery; pre/after school care; play group etc-Meals",
     "displayName": "Childcarer, nursery or play group",
+    "description": "Childcare, nurseries or playgroups prepare, cook or handle and serve food to children under five years",
     "searchTerms": [
       "care",
       "babysitter",
@@ -1948,25 +2011,25 @@
       "breakfast club"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 22
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 22
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR7",
         "overrides": {
-          "Type of food and method of handling": 10,
-          "Consumers at risk": 0,
-          "Vulnerable group": 0
+          "typeOfFoodAndMethodOfHandling": 10,
+          "consumersAtRisk": 0,
+          "vulnerableGroup": 0
         }
       },
       {
         "answerCode": "VG3",
         "overrides": {
-          "Type of food and method of handling": 5,
-          "Vulnerable group": 0
+          "typeOfFoodAndMethodOfHandling": 5,
+          "vulnerableGroup": 0
         }
       }
     ]
@@ -1974,6 +2037,7 @@
   {
     "dataName": "Educational establishment (schools, colleges, university)",
     "displayName": "Educational establishment",
+    "description": "Educational establishments prepare, cook or handle food and serve their students",
     "searchTerms": [
       "school",
       "college",
@@ -1987,22 +2051,22 @@
       "primary"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR7",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "VG1",
         "overrides": {
-          "Vulnerable group": 22
+          "vulnerableGroup": 22
         }
       }
     ]
@@ -2010,6 +2074,7 @@
   {
     "dataName": "Mobile retailer",
     "displayName": "Mobile retailer",
+    "description": "Mobile retailers handle, but do not cook, pre packed food. For example jams, sandwiches or drinks.",
     "searchTerms": [
       "movable",
       "market",
@@ -2030,16 +2095,16 @@
       "vendor"
     ],
     "baseScores": {
-      "Type of food and method of handling": 10,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 10,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -2047,6 +2112,7 @@
   {
     "dataName": "Mobile caterer",
     "displayName": "Mobile caterer",
+    "description": "Mobile caterers prepare, cook or handle food. For example pizza, scooped ice cream or curry.",
     "searchTerms": [
       "movable",
       "market",
@@ -2072,22 +2138,22 @@
       "vendor"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -2095,6 +2161,7 @@
   {
     "dataName": "Movable food establishment",
     "displayName": "Movable food establishment",
+    "description": "Movable food establishments prepare, cook or handle food on a movable premises, such as trains, boats or airplanes. They serve a substantial number of national or international customer every day.",
     "searchTerms": [
       "train",
       "locomotive",
@@ -2111,28 +2178,28 @@
       "tram"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 10,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 10,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "FAH6",
         "overrides": {
-          "Type of food and method of handling": 10
+          "typeOfFoodAndMethodOfHandling": 10
         }
       },
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -2140,30 +2207,31 @@
   {
     "dataName": "Contract caterer",
     "displayName": "Contract caterer",
+    "description": "Contract caterers prepare, cook or handle food at events or at a dedicated location, such as a staff canteen",
     "searchTerms": ["office", "lunch"],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "VG2",
         "overrides": {
-          "Vulnerable group": 22
+          "vulnerableGroup": 22
         }
       },
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       }
     ]
@@ -2171,6 +2239,7 @@
   {
     "dataName": "Home caterer",
     "displayName": "Home caterer",
+    "description": "Home caterers cook or prepare food from home",
     "searchTerms": [
       "baker",
       "cake",
@@ -2181,28 +2250,28 @@
       "flat"
     ],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 5,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 5,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "PRO6",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "PRO8",
         "overrides": {
-          "Method of processing": 20
+          "methodOfProcessing": 20
         }
       },
       {
         "answerCode": "FAH17",
         "overrides": {
-          "Type of food and method of handling": 5
+          "typeOfFoodAndMethodOfHandling": 5
         }
       }
     ]
@@ -2210,35 +2279,37 @@
   {
     "dataName": "Meat cutting plant/catering butcher",
     "displayName": "Meat cutting plant or commercial butcher",
+    "description": "Meat cutting plants or commercial butchers butcher carcasses for sale to other businesses",
     "searchTerms": ["halal", "butchery"],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     }
   },
   {
     "dataName": "Auction hall (fish)",
     "displayName": "Food auction hall",
+    "description": "Food auction halls is an auction hall for the sale of food, such as fish or meat, generally to business customers",
     "searchTerms": ["auctioneer", "bidding"],
     "baseScores": {
-      "Type of food and method of handling": 30,
-      "Method of processing": 0,
-      "Consumers at risk": 15,
-      "Vulnerable group": 0
+      "typeOfFoodAndMethodOfHandling": 30,
+      "methodOfProcessing": 0,
+      "consumersAtRisk": 15,
+      "vulnerableGroup": 0
     },
     "supplementaryScores": [
       {
         "answerCode": "CAR1",
         "overrides": {
-          "Consumers at risk": 10
+          "consumersAtRisk": 10
         }
       },
       {
         "answerCode": "CAR2",
         "overrides": {
-          "Consumers at risk": 1000
+          "consumersAtRisk": 1000
         }
       }
     ]
