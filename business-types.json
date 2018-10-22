@@ -246,7 +246,7 @@
   {
     "dataName": "Abattoirs",
     "displayName": "Abattoir",
-    "description": "Contact your local council for approval",
+    "description": "Abattoirs are where livestock animals go to slaughter. Contact your local council for approval",
     "searchTerms": ["slaughterhouse", "slaughter", "butcher", "halal", "cut"],
     "baseScores": {
       "typeOfFoodAndMethodOfHandling": 0,
@@ -1316,7 +1316,7 @@
   {
     "dataName": "Off licence",
     "displayName": "Off licence",
-    "description": "Off licences sell low risk foods and other shelf stable items. For example drinks, crisps or pre packed bread.",
+    "description": "Off licences sell low risk foods and other shelf stable items. For example sweets, drinks or crisps.",
     "searchTerms": [
       "tobacconist",
       "wine",
@@ -1765,7 +1765,7 @@
   {
     "dataName": "Pubs - snacks and drinks only",
     "displayName": "Pub serving only snacks and drinks",
-    "description": "Pubs serving only snacks and drinks serve no cooked food",
+    "description": "Pubs serving only snacks and drinks",
     "searchTerms": [
       "bar",
       "alcohol",
@@ -2112,7 +2112,7 @@
   {
     "dataName": "Mobile caterer",
     "displayName": "Mobile caterer",
-    "description": "Mobile caterers prepare, cook or handle food. For example pizza, scooped ice cream or pies.",
+    "description": "Mobile caterers prepare, cook or handle food. For example pizza, scooped ice cream or curry.",
     "searchTerms": [
       "movable",
       "market",
